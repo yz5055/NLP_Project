@@ -1,0 +1,2715 @@
+how long will we be on lockdown for covid
+!	wh_word=how subject=we head_word=lockdown  -!> Economic Effects Speculation
+
+when do you think the world will stabilize after covid ends
+!	wh_word=when subject=world head_word=think  -!> Societal Effects Speculation
+
+when covid will end
+	wh_word=when subject=world head_word=think  -> Speculation
+
+when covid will stop
+	wh_word=when subject=world head_word=think  -> Speculation
+
+if president trump opens the economy will we see a second wave of covid
+	wh_word=when subject=world head_word=think  -> Speculation
+
+is there a risk of a second wave of covid like the second wave of the spanish flu which killed more people compared to the first wave
+!	wh_word=which head_word=risk subject=which  -!> Comparison Speculation
+
+how would the pandemic covid be different in america if trump wasnt president
+!	wh_word=how subject=covid head_word=different  -!> Comparison Speculation
+
+will covid go away
+	wh_word=how subject=covid head_word=different  -> Speculation
+
+how long will social distancing for covid last
+!	wh_word=how subject=distancing head_word=last  -!> Societal Effects Speculation
+
+how long do you think the covid pandemic will last in america
+!	wh_word=how subject=pandemic head_word=think  -!> Societal Effects Speculation
+
+will there be a covid 20 or higher
+!	wh_word=None head_word=20  -!> Transmission Speculation
+
+was the covid predicted by anyone
+	wh_word=None head_word=20  -> Speculation
+
+what are the conspiracy theories surrounding covid
+!	wh_word=what head_word=what subject=theories  -!> Symptoms Speculation
+
+did anyone see the covid virus coming
+!	wh_word=None subject=virus head_word=see  -!> Societal Effects Speculation
+
+when covid is over
+!	wh_word=when subject=covid head_word=is  -!> Reporting Speculation
+
+when covid ends
+!	wh_word=when subject=covid head_word=ends  -!> Reporting Speculation
+
+how come covid is going to come back after it goes away for a time
+!	wh_word=how subject=it head_word=going  -!> Reporting Speculation
+
+how could covid become covid 20
+!	wh_word=how head_word=become  -!> Transmission Speculation
+
+why cant we just let covid play itself out
+!	wh_word=why subject=covid head_word=let  -!> Nomenclature Speculation
+
+when covid lockdown ends
+	wh_word=why subject=covid head_word=let  -> Speculation
+
+will covid disappear
+!	wh_word=None head_word=disappear  -!> Transmission Speculation
+
+is bill gates evil why many think he is behind this covid crisis
+!	wh_word=why subject=he head_word=crisis  -!> Treatment Speculation
+
+what arent they telling us about covid
+!	wh_word=what subject=they head_word=telling  -!> Individual Response Speculation
+
+will covid end
+	wh_word=what subject=they head_word=telling  -> Speculation
+
+when will life get back to normal after the onset of covid
+	wh_word=what subject=they head_word=telling  -> Speculation
+
+would obama handle the covid incident better than trump
+!	wh_word=None head_word=handle  -!> Treatment Speculation
+
+why is bill gates so interested in a covid vaccine
+!	wh_word=why subject=gates head_word=interested  -!> Treatment Speculation
+
+when covid over
+	wh_word=why subject=gates head_word=interested  -> Speculation
+
+will covid ever end
+	wh_word=why subject=gates head_word=interested  -> Speculation
+
+will covid return next year
+	wh_word=why subject=gates head_word=interested  -> Speculation
+
+can covid be caught from a person who has no symptoms
+	wh_word=why subject=gates head_word=interested  -> Transmission
+
+are pregnant women more susceptible to the covid virus and will it harm the fetus
+!	wh_word=None subject=it head_word=susceptible  -!> Treatment Transmission
+
+can bats in united states spread covid back to people
+	wh_word=None subject=it head_word=susceptible  -> Transmission
+
+what is the risk of my child becoming sick with covid
+!	wh_word=what head_word=what subject=child  -!> Prevention Transmission
+
+should covid death be cremated
+	wh_word=what head_word=what subject=child  -> Transmission
+
+why are covid patients contagious for so long before they show the symptoms
+	wh_word=what head_word=what subject=child  -> Transmission
+
+are children as likely to get covid as adults
+	wh_word=what head_word=what subject=child  -> Transmission
+
+can i get covid from my pet or other animals
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+can people who recover from covid be infected again
+	wh_word=None head_word=covid  -> Transmission
+
+are certain blood types more resistant to acquiring the covid when exposed than others
+!	wh_word=when head_word=are subject=types  -!> Reporting Transmission
+
+how do you wash vegetables and fruits these days of the covid epidemic
+!	wh_word=how subject=you head_word=wash  -!> Individual Response Transmission
+
+given the evidence so far will covid most likely go away in the summer
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+can humans become infected with the covid from an animal source
+	wh_word=None head_word=covid  -> Transmission
+
+should i clean high touch surfaces
+	wh_word=None head_word=covid  -> Transmission
+
+how likely am i to catch covid
+!	wh_word=how subject=i head_word=catch  -!> Prevention Transmission
+
+can the virus that causes covid be spread through food
+	wh_word=how subject=i head_word=catch  -> Transmission
+
+do covid antibodies mean immunity
+!	wh_word=None subject=antibodies head_word=mean  -!> Prevention Transmission
+
+will covid be seasonal
+	wh_word=None subject=antibodies head_word=mean  -> Transmission
+
+can covid live on surfaces
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+can covid reinfect
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+can covid live in water
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+is covid especially harmful for pregnant women
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+how covid is transmitted
+	wh_word=None head_word=covid  -> Transmission
+
+who covid immunity
+	wh_word=None head_word=covid  -> Transmission
+
+what animal species can get covid
+!	wh_word=what subject=species head_word=get  -!> Having COVID Transmission
+
+will an antibody test show whether im immune and can go back to work
+!	wh_word=how subject=test head_word=show  -!> Testing Transmission
+
+can covid be transmitted through food
+	wh_word=how subject=test head_word=show  -> Transmission
+
+how long does covid stay alive on surfaces
+!	wh_word=how subject=covid head_word=stay  -!> Having COVID Transmission
+
+how is the novel covid spread
+	wh_word=how subject=covid head_word=stay  -> Transmission
+
+who is at greater risk of dying from covid
+	wh_word=how subject=covid head_word=stay  -> Transmission
+
+can covid survive in heat
+!	wh_word=None subject=covid head_word=survive  -!> Having COVID Transmission
+
+can wild animals spread the virus that causes covid to people or pets
+	wh_word=None subject=covid head_word=survive  -> Transmission
+
+will covid come back in the fall
+!	wh_word=None head_word=come  -!> Speculation Transmission
+
+what is the best way to handle groceries during covid
+!	wh_word=what head_word=what subject=way  -!> Symptoms Transmission
+
+how covid spreads
+!	wh_word=how head_word=spreads  -!> Societal Effects Transmission
+
+can covid live in heat
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+what is the temperature required to kill covid
+!	wh_word=what head_word=what subject=temperature  -!> Symptoms Transmission
+
+do covid deaths have to be cremated
+	wh_word=what head_word=what subject=temperature  -> Transmission
+
+can covid live on food
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+does a history of smoking tobacco increase ones risk of catching covid
+!	wh_word=None head_word=does  -!> Having COVID Transmission
+
+can a young and healthy person die from a covid infection
+!	wh_word=None subject=person head_word=die  -!> Prevention Transmission
+
+can you catch a covid more than once
+!	wh_word=None subject=you head_word=catch  -!> Individual Response Transmission
+
+can food or clothes be contaminated with covid
+	wh_word=None subject=you head_word=catch  -> Transmission
+
+are covid carriers contagious
+	wh_word=None subject=you head_word=catch  -> Transmission
+
+are smokers or vapers at higher risk
+	wh_word=None subject=you head_word=catch  -> Transmission
+
+how does this covid spread
+	wh_word=None subject=you head_word=catch  -> Transmission
+
+does covid survive freezing
+!	wh_word=None subject=covid head_word=survive  -!> Having COVID Transmission
+
+how long is someone infectious after recovery from covid symptoms
+!	wh_word=how head_word=long subject=someone  -!> Having COVID Transmission
+
+is it safe to order take out
+	wh_word=how head_word=long subject=someone  -> Transmission
+
+can i catch the virus from being in an enclosed space in close proximity to someone who doesnt have respiratory symptoms
+!	wh_word=who subject=nt head_word=catch  -!> Societal Effects Transmission
+
+what are ways in which covid is transmitted
+!	wh_word=what head_word=what subject=ways  -!> Symptoms Transmission
+
+how long will covid survive on items you put in the freezer
+!	wh_word=how head_word=covid subject=you  -!> Societal Effects Transmission
+
+have the people who were sickened with covid developed immunity
+!	wh_word=who head_word=have  -!> Symptoms Transmission
+
+who covid airborne
+	wh_word=who head_word=have  -> Transmission
+
+is asthma a risk factor for covid
+	wh_word=who head_word=have  -> Transmission
+
+is there a country whose people are not exposed to covid
+	wh_word=who head_word=have  -> Transmission
+
+are people with disabilities at higher risk
+!	wh_word=None head_word=people  -!> Individual Response Transmission
+
+does covid die in freezer
+!	wh_word=None subject=covid head_word=die  -!> Reporting Transmission
+
+does covid live on surfaces
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+how long does covid live on surfaces
+!	wh_word=how head_word=covid  -!> Societal Effects Transmission
+
+who is the most affected by covid
+!	wh_word=who head_word=who subject=affected  -!> Treatment Transmission
+
+can covid be transmitted by mosquitoes
+	wh_word=who head_word=who subject=affected  -> Transmission
+
+will covid end in summer
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+can covid live on paper
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+which animals are immune covid
+!	wh_word=which subject=animals head_word=covid  -!> Comparison Transmission
+
+which animal gave covid
+!	wh_word=which subject=animal head_word=gave  -!> Economic Effects Transmission
+
+do i need to wash my clothes right after encountering other people
+	wh_word=which subject=animal head_word=gave  -> Transmission
+
+is it true that even if you already had the covid you can get it again
+!	wh_word=None subject=you head_word=true  -!> Reporting Transmission
+
+should i stop wearing contacts and switch to glasses
+!	wh_word=None subject=i head_word=stop  -!> Prevention Transmission
+
+can covid live in freezer
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+can the heat from a hand dryer kill covid
+!	wh_word=None subject=heat head_word=kill  -!> Prevention Transmission
+
+can you get covid from packages
+!	wh_word=None subject=you head_word=get  -!> Individual Response Transmission
+
+has anyone that recovered from covid been reinfected
+!	wh_word=None subject=that head_word=reinfected  -!> Societal Response Transmission
+
+am i at risk if i touch someone who died of covid after they have passed away
+	wh_word=None subject=that head_word=reinfected  -> Transmission
+
+does covid kill animals
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+is it safe to receive a package from any area where covid has been reported
+	wh_word=None head_word=covid  -> Transmission
+
+how much more susceptible are smokers to succumbing to covid
+!	wh_word=how head_word=smokers  -!> Societal Effects Transmission
+
+is covid more serious if you smoke and do people who vape face the same or less risks
+	wh_word=how head_word=smokers  -> Transmission
+
+how does the virus spread
+	wh_word=how head_word=smokers  -> Transmission
+
+how can the covid spread
+	wh_word=how head_word=smokers  -> Transmission
+
+can i get covid through food
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+can humans get covid from dogs or cats
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+should contact lens wearers take special precautions to prevent covid
+	wh_word=None head_word=covid  -> Transmission
+
+is obesity a top risk factor in covid hospitalizations
+	wh_word=None head_word=covid  -> Transmission
+
+do covid antibodies confer immunity
+!	wh_word=None subject=antibodies head_word=confer  -!> Prevention Transmission
+
+can mosquitoes or ticks spread the virus that causes covid
+	wh_word=None subject=antibodies head_word=confer  -> Transmission
+
+does covid live on clothes
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+how deadly is covid to pets
+!	wh_word=how head_word=covid  -!> Societal Effects Transmission
+
+can i get covid from my pet
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+is covid killing more liberals or conservatives
+	wh_word=None head_word=covid  -> Transmission
+
+will there be animal food shortages
+	wh_word=None head_word=covid  -> Transmission
+
+has the link between blood group and the severity of covid effects been confirmed
+!	wh_word=None head_word=confirmed  -!> Societal Response Transmission
+
+how long is someone contagious after getting covid
+!	wh_word=how head_word=long subject=someone  -!> Having COVID Transmission
+
+what types of animals are susceptible to covid
+!	wh_word=what subject=types head_word=susceptible  -!> Having COVID Transmission
+
+what temperature kills the virus that causes covid
+!	wh_word=what subject=that head_word=kills  -!> Societal Response Transmission
+
+am i at risk for covid from mail packages or products
+	wh_word=what subject=that head_word=kills  -> Transmission
+
+how does covid get spread
+	wh_word=what subject=that head_word=kills  -> Transmission
+
+who is covid killing
+!	wh_word=who head_word=who subject=killing  -!> Treatment Transmission
+
+can animals carry the virus that causes covid on their skin or fur
+!	wh_word=None subject=that head_word=carry  -!> Economic Effects Transmission
+
+how long does the virus survive on surfaces
+!	wh_word=how subject=virus head_word=survive  -!> Having COVID Transmission
+
+can the virus that causes covid be transmitted through the air
+	wh_word=how subject=virus head_word=survive  -> Transmission
+
+can i get covid from a food worker handling my food
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+at what stage is covid the most contagious
+!	wh_word=what head_word=covid  -!> Having COVID Transmission
+
+what animals can get covid
+!	wh_word=what subject=animals head_word=get  -!> Having COVID Transmission
+
+can you get covid twice or does it cause immunity
+!	wh_word=None subject=it head_word=get  -!> Having COVID Transmission
+
+was covid found in toilet paper
+	wh_word=None subject=it head_word=get  -> Transmission
+
+who is at risk of developing severe illness
+	wh_word=None subject=it head_word=get  -> Transmission
+
+are covid survivors immune
+	wh_word=None subject=it head_word=get  -> Transmission
+
+is grocery shopping safe during the covid pandemic
+	wh_word=None subject=it head_word=get  -> Transmission
+
+how does covid spread
+	wh_word=None subject=it head_word=get  -> Transmission
+
+is the u.s. food supply safe
+	wh_word=None subject=it head_word=get  -> Transmission
+
+is covid airborne
+	wh_word=None subject=it head_word=get  -> Transmission
+
+should i disinfect my groceries
+	wh_word=None subject=it head_word=get  -> Transmission
+
+how can someone spread covid when asymptomatic
+	wh_word=None subject=it head_word=get  -> Transmission
+
+does covid die in sunlight
+!	wh_word=None subject=covid head_word=die  -!> Reporting Transmission
+
+can you get covid from touching money
+!	wh_word=None subject=you head_word=get  -!> Individual Response Transmission
+
+because of the covid pandemic do you wash your groceries
+!	wh_word=None subject=you head_word=wash  -!> Individual Response Transmission
+
+can i get covid from my pets or other animals
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+if i vape tobacco or nicotine am i at risk for complications from covid
+	wh_word=None head_word=covid  -> Transmission
+
+is covid in the air
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+who is at higher risk
+	wh_word=None head_word=covid  -> Transmission
+
+are kids more at risk
+	wh_word=None head_word=covid  -> Transmission
+
+can someone spread the virus without being sick
+	wh_word=None head_word=covid  -> Transmission
+
+does covid present a risk to the safety of the nations blood supply
+!	wh_word=None subject=covid head_word=present  -!> Origin Transmission
+
+will warm weather stop the outbreak of covid
+	wh_word=None subject=covid head_word=present  -> Transmission
+
+are children immuned to the new covid
+	wh_word=None subject=covid head_word=present  -> Transmission
+
+how are babies not affected by covid
+!	wh_word=how head_word=affected  -!> Societal Effects Transmission
+
+are kids getting affected by covid
+!	wh_word=None head_word=affected  -!> Societal Effects Transmission
+
+how long does covid live on produce
+!	wh_word=how head_word=covid  -!> Societal Effects Transmission
+
+how do i prevent getting infected with covid from delivered packages and groceries
+!	wh_word=how subject=i head_word=prevent  -!> Prevention Transmission
+
+can covid travel by wind
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+why are kids not getting covid
+!	wh_word=why subject=kids head_word=getting  -!> Treatment Transmission
+
+are food products produced in the united states or other countries affected by covid a risk for the spread of covid
+	wh_word=why subject=kids head_word=getting  -> Transmission
+
+can the covid virus spread through drinking water
+	wh_word=why subject=kids head_word=getting  -> Transmission
+
+is there a connection between covid and environment temperature
+	wh_word=why subject=kids head_word=getting  -> Transmission
+
+who is at higher risk for serious illness from covid
+	wh_word=why subject=kids head_word=getting  -> Transmission
+
+does covid live on paper
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+will high temperatures kill covid
+!	wh_word=None subject=temperatures head_word=kill  -!> Prevention Transmission
+
+does covid die in heat
+!	wh_word=None subject=covid head_word=die  -!> Reporting Transmission
+
+how long does the covid virus live for under normal conditions
+!	wh_word=how subject=virus head_word=live  -!> Having COVID Transmission
+
+how is covid spread
+	wh_word=how subject=virus head_word=live  -> Transmission
+
+why is covid so contagious
+	wh_word=how subject=virus head_word=live  -> Transmission
+
+why are children almost immune to covid
+!	wh_word=why head_word=why  -!> Societal Effects Transmission
+
+can covid be sent through the mail
+	wh_word=why head_word=why  -> Transmission
+
+is covid airborne or droplet
+	wh_word=why head_word=why  -> Transmission
+
+what countries are still safe from covid
+!	wh_word=what subject=countries head_word=safe  -!> Societal Response Transmission
+
+can i get the covid from food food packaging or food containers and preparation area
+	wh_word=what subject=countries head_word=safe  -> Transmission
+
+can mosquitoes transmit covid
+	wh_word=what subject=countries head_word=safe  -> Transmission
+
+can i get sick with covid if it is on food
+!	wh_word=None subject=it head_word=get  -!> Having COVID Transmission
+
+is it safe to receive a package from an area where covid has been reported
+	wh_word=None subject=it head_word=get  -> Transmission
+
+would atheists be more likely to get covid
+!	wh_word=None subject=atheists head_word=likely  -!> Speculation Transmission
+
+what animals can carry covid
+!	wh_word=what subject=animals head_word=carry  -!> Economic Effects Transmission
+
+does covid survive in freezer
+!	wh_word=None subject=covid head_word=survive  -!> Having COVID Transmission
+
+can covid live on objects
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+can high or low temperatures kill covid
+!	wh_word=None subject=temperatures head_word=kill  -!> Prevention Transmission
+
+is it true that o+ blood types are immune to the covid
+!	wh_word=None subject=types head_word=true  -!> Reporting Transmission
+
+will covid go away in the summer
+!	wh_word=None head_word=go  -!> Speculation Transmission
+
+how is covid transmitted
+	wh_word=None head_word=go  -> Transmission
+
+is my child with an underlying medical condition or special healthcare need at higher risk for severe illness from covid
+!	wh_word=None head_word=child  -!> Prevention Transmission
+
+why cant they take antibodies from people who have recovered from covid to create a vaccine
+!	wh_word=who subject=who head_word=take  -!> Having COVID Transmission
+
+can covid live on clothes
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+can one be immune to covid
+!	wh_word=None subject=one head_word=immune  -!> Individual Response Transmission
+
+why are medical workers getting sick with or dying from covid if theyre wearing protective gear
+!	wh_word=why head_word=why subject=they  -!> Individual Response Transmission
+
+is covid dangerous for those who vape
+	wh_word=why head_word=why subject=they  -> Transmission
+
+when are you contagious with covid
+	wh_word=why head_word=why subject=they  -> Transmission
+
+how does being a smoker impact covid patient outcomes
+!	wh_word=how head_word=outcomes  -!> Societal Effects Transmission
+
+what are the most important things i need to know to keep myself and others safe when i go to the grocery store during the pandemic
+!	wh_word=what subject=i head_word=need  -!> Prevention Transmission
+
+do covid antibodies provide immunity
+!	wh_word=None subject=antibodies head_word=provide  -!> Prevention Transmission
+
+are some blood types able to fight this covid better than other blood types
+	wh_word=None subject=antibodies head_word=provide  -> Transmission
+
+what is the scientific name of covid
+!	wh_word=what head_word=what subject=name  -!> Symptoms Nomenclature
+
+is covid a pandemic
+!	wh_word=None head_word=covid  -!> Speculation Nomenclature
+
+why is the disease being called covid disease 2019
+	wh_word=None head_word=covid  -> Nomenclature
+
+why is it called a covid
+	wh_word=None head_word=covid  -> Nomenclature
+
+how is the covid referred to
+!	wh_word=how head_word=referred  -!> Societal Effects Nomenclature
+
+what does it mean that covid is a global pandemic
+!	wh_word=what subject=covid head_word=mean  -!> Having COVID Nomenclature
+
+what does the covid part of covid stand for
+!	wh_word=what head_word=what  -!> Symptoms Nomenclature
+
+what is 2019 novel covid
+!	wh_word=what head_word=what subject=covid  -!> Symptoms Nomenclature
+
+why covid called novel
+	wh_word=what head_word=what subject=covid  -> Nomenclature
+
+what covid means
+!	wh_word=what subject=covid head_word=means  -!> Having COVID Nomenclature
+
+why is covid called a pandemic and not an epidemic
+	wh_word=what subject=covid head_word=means  -> Nomenclature
+
+what is a novel covid
+!	wh_word=what head_word=what subject=covid  -!> Symptoms Nomenclature
+
+what is covid
+!	wh_word=what head_word=what subject=covid  -!> Symptoms Nomenclature
+
+what does covid mean
+!	wh_word=what subject=covid head_word=mean  -!> Having COVID Nomenclature
+
+are covid and covid the same
+!	wh_word=None head_word=covid  -!> Speculation Nomenclature
+
+what covid
+!	wh_word=what head_word=covid  -!> Having COVID Nomenclature
+
+where can published genomic sequences be found for the covid virus
+!	wh_word=where head_word=published  -!> Origin Reporting
+
+why are we seeing a rise in cases
+!	wh_word=why subject=we head_word=seeing  -!> Testing Reporting
+
+where was covid first identified
+	wh_word=why subject=we head_word=seeing  -> Reporting
+
+is there reason to believe the covid deaths in china are underreported
+!	wh_word=None head_word=underreported  -!> Transmission Reporting
+
+can covid reduce the population of humans on earth by half
+!	wh_word=None subject=covid head_word=reduce  -!> Origin Reporting
+
+which covid model is most accurate
+!	wh_word=which subject=model head_word=accurate  -!> Testing Reporting
+
+how long did it take to identify the cause of covid
+!	wh_word=how subject=it head_word=take  -!> Having COVID Reporting
+
+is the covid curve flattening
+!	wh_word=None subject=curve head_word=flattening  -!> Transmission Reporting
+
+why might we underestimate the spread of covid
+!	wh_word=why subject=we head_word=underestimate  -!> Testing Reporting
+
+is china being truthful about the number of deaths due to the covid or is it much higher
+!	wh_word=None subject=it head_word=truthful  -!> Treatment Reporting
+
+why are all patients that die with covid being classified as covid related deaths even though covid might not have been the cause
+!	wh_word=why head_word=why subject=covid  -!> Comparison Reporting
+
+are we flattening the curve of covid successfully
+!	wh_word=None subject=we head_word=flattening  -!> Speculation Reporting
+
+have covid numbers going down
+	wh_word=None subject=we head_word=flattening  -> Reporting
+
+are covid numbers increasing
+	wh_word=None subject=we head_word=flattening  -> Reporting
+
+has covid peaked
+!	wh_word=None head_word=covid  -!> Speculation Reporting
+
+have covid cases peaked
+	wh_word=None head_word=covid  -> Reporting
+
+is covid worse than we are being told
+!	wh_word=None head_word=worse  -!> Comparison Reporting
+
+when was covid first identified
+	wh_word=None head_word=worse  -> Reporting
+
+is covid getting worse
+!	wh_word=None head_word=getting  -!> Transmission Reporting
+
+when was the novel covid first reported
+	wh_word=None head_word=getting  -> Reporting
+
+are we winning the war against covid
+!	wh_word=None subject=we head_word=winning  -!> Speculation Reporting
+
+world covid death toll
+!	wh_word=None head_word=toll  -!> Transmission Reporting
+
+are covid cases dropping
+	wh_word=None head_word=toll  -> Reporting
+
+is there underreporting of covid cases in specific countries or worldwide
+!	wh_word=None head_word=underreporting  -!> Transmission Reporting
+
+are covid cases declining
+	wh_word=None head_word=underreporting  -> Reporting
+
+why we are seeing rising cases due to covid
+!	wh_word=why subject=we head_word=seeing  -!> Testing Reporting
+
+has covid slowed down
+!	wh_word=None subject=covid head_word=slowed  -!> Origin Reporting
+
+is covid slowing down
+!	wh_word=None head_word=slowing  -!> Transmission Reporting
+
+compared to past pandemics how deadly is covid
+!	wh_word=how head_word=covid  -!> Societal Effects Reporting
+
+when will covid reach its peak
+!	wh_word=when head_word=covid  -!> Speculation Reporting
+
+is covid a political tool
+!	wh_word=None head_word=tool  -!> Transmission Reporting
+
+have covid cases gone down
+!	wh_word=None subject=cases head_word=gone  -!> Speculation Reporting
+
+what platform was instrumental in rapid sharing of covid information
+!	wh_word=what subject=platform head_word=instrumental  -!> Having COVID Reporting
+
+where are we on the covid curve now
+!	wh_word=where head_word=where  -!> Origin Reporting
+
+who covid deaths
+!	wh_word=who subject=who head_word=covid  -!> Transmission Reporting
+
+what are some common misconceptions about covid
+!	wh_word=what head_word=what subject=misconceptions  -!> Symptoms Reporting
+
+what approximately is the actual mortality rate for covid
+	wh_word=what head_word=what subject=misconceptions  -> Reporting
+
+what is the covid fatality rate
+!	wh_word=what head_word=what subject=rate  -!> Symptoms Reporting
+
+is china lying about covid
+!	wh_word=None subject=china head_word=lying  -!> Societal Response Reporting
+
+is the covid being misrepresented by the media for political purposes
+!	wh_word=None head_word=misrepresented  -!> Transmission Reporting
+
+how many deaths do you expect from the covid when the pandemic is finally over
+	wh_word=None head_word=misrepresented  -> Reporting
+
+is it true that covid has a less than 1% fatality rate
+	wh_word=None head_word=misrepresented  -> Reporting
+
+should the people that died from a stroke after recovering from covid count as a covid victim
+!	wh_word=None head_word=should subject=that  -!> Nomenclature Reporting
+
+will covid ultimately kill 1000000 in the us
+!	wh_word=None subject=covid head_word=kill  -!> Having COVID Reporting
+
+when was sars cov first identified
+	wh_word=None subject=covid head_word=kill  -> Reporting
+
+is chinas very high recovery rate from covid really accurate
+!	wh_word=None head_word=accurate  -!> Testing Reporting
+
+are covid deaths accurate
+	wh_word=None head_word=accurate  -> Reporting
+
+what is the realistic health impact of covid
+!	wh_word=what head_word=what subject=impact  -!> Having COVID Reporting
+
+have covid checks been sent
+!	wh_word=None head_word=sent  -!> Transmission Societal Response
+
+should i worry about covid
+!	wh_word=None subject=i head_word=worry  -!> Comparison Societal Response
+
+have covid checks been issued
+!	wh_word=None head_word=issued  -!> Transmission Societal Response
+
+how long did it take to publish the full genomic sequence of covid after it was identified
+!	wh_word=how subject=it head_word=take  -!> Having COVID Societal Response
+
+how can artificial intelligence help with the covid epidemic
+!	wh_word=how head_word=how  -!> Having COVID Societal Response
+
+why is the covid pandemic a bipartisan issue
+!	wh_word=why subject=pandemic head_word=issue  -!> Comparison Societal Response
+
+the usa has 5% of the worlds population but about 30% of covid cases despite being the richest nation on the planet where did it go wrong
+!	wh_word=where subject=it head_word=has  -!> Comparison Societal Response
+
+is covid real
+!	wh_word=None head_word=real  -!> Transmission Societal Response
+
+are you worried about covid
+!	wh_word=None subject=you head_word=worried  -!> Individual Response Societal Response
+
+how has china gotten covid under control
+!	wh_word=how subject=china head_word=gotten  -!> Economic Effects Societal Response
+
+is there any justification or rationalization for trump saying to inject disinfectant into your body to treat covid
+!	wh_word=None head_word=is subject=justification  -!> Transmission Societal Response
+
+have covid checks gone out
+!	wh_word=None subject=checks head_word=gone  -!> Speculation Societal Response
+
+why is everything about covid political
+!	wh_word=why head_word=why subject=everything  -!> Societal Effects Societal Response
+
+which country is the most equipped to deal with covid
+	wh_word=why head_word=why subject=everything  -> Societal Response
+
+why does covid spread fast in the usa what makes it worse
+!	wh_word=what subject=it head_word=spread  -!> Transmission Societal Response
+
+how is the cdc handling (or mishandling) covid
+!	wh_word=how subject=handling head_word=covid  -!> Societal Effects Societal Response
+
+is it true that the president has suggested that people inject with disinfectant to cure covid
+!	wh_word=None subject=people head_word=true  -!> Reporting Societal Response
+
+do you think protesting for covid quarantine is stupid
+!	wh_word=None subject=you head_word=stupid  -!> Individual Response Societal Response
+
+why is the us losing to covid despite being a top big rich country
+	wh_word=None subject=you head_word=stupid  -> Societal Response
+
+why are americans the most affected nation in the world by covid
+!	wh_word=why head_word=nation  -!> Treatment Societal Response
+
+why is everyone panicked over covid arent we taking things a little too far
+!	wh_word=why subject=we head_word=panicked  -!> Testing Societal Response
+
+how is the us reaction to the spread of the covid different from chinas
+!	wh_word=how head_word=is subject=reaction  -!> Societal Effects Societal Response
+
+when covid stimulus checks
+!	wh_word=when head_word=when  -!> Speculation Societal Response
+
+when covid checks
+!	wh_word=when head_word=checks  -!> Speculation Societal Response
+
+did donald trump really suggest injecting disinfectant to fight covid
+	wh_word=when head_word=checks  -> Societal Response
+
+what are the steps that a hospital should take after covid outbreak
+!	wh_word=what head_word=what subject=hospital  -!> Symptoms Societal Response
+
+why does a persons response to covid often correlate to their position on the political spectrum
+!	wh_word=why subject=response head_word=correlate  -!> Treatment Societal Response
+
+how do you feel about the anti lockdown protests happening across the us from covid
+!	wh_word=how subject=you head_word=feel  -!> Individual Response Societal Response
+
+how could the u.s. alter its response to covid to be more successful
+!	wh_word=how subject=u.s. head_word=alter  -!> Societal Effects Societal Response
+
+why covid lockdown
+!	wh_word=why head_word=lockdown  -!> Economic Effects Societal Response
+
+why is america ready to reopen before a vaccine is made for covid
+	wh_word=why head_word=lockdown  -> Societal Response
+
+how did the us fail to prevent a covid outbreak
+	wh_word=why head_word=lockdown  -> Societal Response
+
+how is trump mishandling the covid situation
+	wh_word=why head_word=lockdown  -> Societal Response
+
+are you afraid of the covid virus
+!	wh_word=None subject=you head_word=afraid  -!> Individual Response Societal Response
+
+how can the global economy be back on its track after covid
+!	wh_word=how subject=economy head_word=be  -!> Societal Effects Societal Response
+
+why is the covid fatality rate so high in the us compared to china
+!	wh_word=why subject=rate head_word=high  -!> Transmission Societal Response
+
+which countries have the best procedures in place to contain the covid
+	wh_word=why subject=rate head_word=high  -> Societal Response
+
+should all americans be under stay at home orders
+!	wh_word=None subject=americans head_word=stay  -!> Speculation Societal Response
+
+is there any way to de politicize the covid pandemic
+!	wh_word=None head_word=is subject=way  -!> Transmission Societal Response
+
+do you believe covid is a hoax
+!	wh_word=None subject=you head_word=hoax  -!> Individual Response Societal Response
+
+when covid checks from government
+!	wh_word=when head_word=when  -!> Speculation Societal Response
+
+how can china lower the spreading of covid
+!	wh_word=how subject=china head_word=lower  -!> Economic Effects Societal Response
+
+how do you think china has recovered from covid so quickly while the rest of the world is struggling
+!	wh_word=how subject=rest head_word=think  -!> Societal Effects Societal Response
+
+has the who been negligent in their response to covid
+!	wh_word=who head_word=has subject=who  -!> Transmission Societal Response
+
+why are republican states more reluctant to issue stay at home orders to mitigate covid as compared to democrats
+	wh_word=who head_word=has subject=who  -> Societal Response
+
+why is the us struggling so much compared to other countries when it comes to testing for covid
+!	wh_word=when subject=it head_word=struggling  -!> Speculation Societal Response
+
+how did the who fail in this covid pandemic
+!	wh_word=who head_word=how subject=who  -!> Having COVID Societal Response
+
+have covid checks gone out yet
+!	wh_word=None subject=checks head_word=gone  -!> Speculation Societal Response
+
+how do we recover from the economic impacts of covid
+!	wh_word=how subject=we head_word=recover  -!> Having COVID Societal Response
+
+how can the power of artificial intelligence be utilized in fighting the covid
+!	wh_word=how head_word=utilized  -!> Societal Effects Societal Response
+
+what is the holdup with the covid tests for the us
+!	wh_word=what head_word=what subject=holdup  -!> Symptoms Societal Response
+
+have covid checks been mailed
+!	wh_word=None head_word=mailed  -!> Transmission Societal Response
+
+what are peoples impressions about president trump claiming he was being sarcastic when musing whether people should inject disinfectant to defeat covid
+!	wh_word=what head_word=what subject=people  -!> Individual Response Societal Response
+
+how come the infection rate of covid is much higher in the u.s. than it is in china even though china is more compact and populous
+!	wh_word=how subject=china head_word=higher  -!> Economic Effects Societal Response
+
+when did the chinese authorities share the sequence of a novel covid
+!	wh_word=when subject=authorities head_word=share  -!> Speculation Societal Response
+
+are we blowing covid out of proportion
+!	wh_word=None subject=we head_word=blowing  -!> Speculation Societal Response
+
+why does the united states have more death due to covid than any other nations in the world
+	wh_word=None subject=we head_word=blowing  -> Societal Response
+
+why covid is worse in us
+!	wh_word=why subject=covid head_word=worse  -!> Comparison Societal Response
+
+did the covid pandemic become a global mass hysteria
+!	wh_word=None subject=pandemic head_word=become  -!> Speculation Societal Response
+
+is the covid virus a sign of an upcoming apocalypse
+!	wh_word=None subject=virus head_word=sign  -!> Societal Response Societal Effects
+
+will covid lead to the demand for democracy in china
+!	wh_word=None head_word=covid  -!> Speculation Societal Effects
+
+did covid cost trump his second term
+!	wh_word=None head_word=did  -!> Origin Societal Effects
+
+what will you do different in your life now than what you did before since covid
+!	wh_word=what subject=you head_word=do  -!> Individual Response Societal Effects
+
+in light of the covid pandemic is trump more likely to be re elected
+!	wh_word=None head_word=trump  -!> Transmission Societal Effects
+
+excepting president donald trump as an answer what person or organization is most responsible for the rapid spread of the covid virus pandemic
+!	wh_word=what head_word=trump  -!> Having COVID Societal Effects
+
+will we get through covid
+!	wh_word=None subject=we head_word=get  -!> Testing Societal Effects
+
+will covid permanently end global travel
+!	wh_word=None subject=covid head_word=end  -!> Speculation Societal Effects
+
+are you confident with the way donald trump is handling the covid epidemic
+!	wh_word=None subject=trump head_word=confident  -!> Societal Response Societal Effects
+
+what are the positive impacts of the covid crisis
+!	wh_word=what head_word=what subject=impacts  -!> Symptoms Societal Effects
+
+what could happen if the cure for covid is not found
+	wh_word=what head_word=what subject=impacts  -> Societal Effects
+
+without a vaccine will the covid outbreak ever end
+	wh_word=what head_word=what subject=impacts  -> Societal Effects
+
+should china cdc (center for disease control) be responsible for the outbreak of covid
+!	wh_word=None subject=cdc head_word=responsible  -!> Societal Response Societal Effects
+
+what will travel look like after the end of the covid pandemic
+	wh_word=None subject=cdc head_word=responsible  -> Societal Effects
+
+what do trump supporters think of his handling of covid
+!	wh_word=what subject=supporters head_word=think  -!> Societal Response Societal Effects
+
+is it possible that life will not return to normal after covid
+!	wh_word=None subject=life head_word=possible  -!> Transmission Societal Effects
+
+how will the covid pandemic change chinas relationship with the west
+!	wh_word=how head_word=how  -!> Having COVID Societal Effects
+
+how will the covid pandemic benefit society in the long run
+!	wh_word=how head_word=how  -!> Having COVID Societal Effects
+
+what do you think have been some of the unintended consequences of the covid pandemic
+!	wh_word=what subject=you head_word=think  -!> Societal Response Societal Effects
+
+how is covid changing the world for better and for worse
+!	wh_word=how head_word=how  -!> Having COVID Societal Effects
+
+why might someone blame or avoid individuals and groups (create stigma) because of covid
+!	wh_word=why subject=someone head_word=blame  -!> Individual Response Societal Effects
+
+is covid making us better or worse people
+!	wh_word=None subject=us head_word=making  -!> Societal Response Societal Effects
+
+what are 5 things that will never be the same because of covid
+!	wh_word=what head_word=what subject=that  -!> Symptoms Societal Effects
+
+how unlikely is it that covid is the end of humanity as we know it
+!	wh_word=how head_word=it subject=we  -!> Economic Effects Societal Effects
+
+is covid the end of the conservative movement in america
+!	wh_word=None head_word=covid  -!> Speculation Societal Effects
+
+should china be held responsible for creating the covid panic in the world
+	wh_word=None head_word=covid  -> Societal Effects
+
+post covid how can we rebuild a better society
+!	wh_word=how head_word=covid subject=we  -!> Speculation Societal Effects
+
+is this covid the beginning of the end for america as we know it
+!	wh_word=None head_word=covid subject=we  -!> Speculation Societal Effects
+
+will covid change us politics
+	wh_word=None head_word=covid subject=we  -> Societal Effects
+
+what are the new things covid has taught you
+!	wh_word=what subject=covid head_word=taught  -!> Having COVID Societal Effects
+
+if covid gets out of control in the us is it possible that trump will declare martial law at some point
+!	wh_word=None subject=trump head_word=possible  -!> Transmission Societal Effects
+
+how has the covid affected you
+	wh_word=None subject=trump head_word=possible  -> Societal Effects
+
+what will happen if the president of the usa gets covid
+!	wh_word=what subject=president head_word=happen  -!> Speculation Societal Effects
+
+what is your biggest discovery during covid
+!	wh_word=what head_word=what subject=discovery  -!> Symptoms Societal Effects
+
+is the usa responsible for covid or china
+!	wh_word=None subject=usa head_word=responsible  -!> Societal Response Societal Effects
+
+is it a violation of our freedom for the american economy to be closed due to covid
+!	wh_word=None subject=it head_word=violation  -!> Treatment Societal Effects
+
+will covid last until everyone dies and humans go extinct
+!	wh_word=None head_word=covid subject=humans  -!> Comparison Societal Effects
+
+what is the best thing that has happened to you during the covid lockdown period
+!	wh_word=what head_word=what subject=that  -!> Symptoms Societal Effects
+
+how will life be changed if in the next generations there is still no vaccine for covid
+	wh_word=what head_word=what subject=that  -> Societal Effects
+
+what is 1 good thing that has happened as a result of covid
+!	wh_word=what head_word=what subject=that  -!> Symptoms Societal Effects
+
+will the world go back to normal after the covid is gone
+	wh_word=what head_word=what subject=that  -> Societal Effects
+
+when will international travel get back to normal following the covid pandemic
+!	wh_word=when subject=travel head_word=get  -!> Speculation Societal Effects
+
+did the covid pandemic make you realize anything about yourself that you didnt already know
+!	wh_word=None subject=you head_word=make  -!> Economic Effects Societal Effects
+
+is there any blessing in disguise from this covid pandemic
+!	wh_word=None head_word=is subject=blessing  -!> Transmission Societal Effects
+
+who is more responsible for covid who or china
+!	wh_word=who subject=who head_word=responsible  -!> Transmission Societal Effects
+
+are americans going to blame trump for the covid situation
+!	wh_word=None subject=americans head_word=going  -!> Reporting Societal Effects
+
+how can the world hold china financially liable for the covid global pandemic
+!	wh_word=how subject=china head_word=hold  -!> Prevention Societal Effects
+
+what lessons will the world learn from covid
+	wh_word=how subject=china head_word=hold  -> Societal Effects
+
+what are the bad impacts of the covid
+!	wh_word=what head_word=what subject=impacts  -!> Symptoms Societal Effects
+
+are we all going to die of covid
+!	wh_word=None subject=we head_word=going  -!> Reporting Societal Effects
+
+should china be held responsible for the financial and economic liability other countries have suffered due to the covid pandemic
+	wh_word=None subject=we head_word=going  -> Societal Effects
+
+what will be the educational impacts of covid
+!	wh_word=what subject=what head_word=impacts  -!> Symptoms Societal Effects
+
+should schools close for covid
+!	wh_word=None subject=schools head_word=close  -!> Transmission Societal Effects
+
+assuming covid is not over will it end the world and humanity
+!	wh_word=None subject=it head_word=over  -!> Treatment Societal Effects
+
+what if the us fails to contain covid
+!	wh_word=what head_word=what subject=us  -!> Societal Response Societal Effects
+
+do you think there will be more racism during covid
+!	wh_word=None subject=you head_word=racism  -!> Individual Response Societal Effects
+
+what is the likelihood that covid will kill the entire population
+!	wh_word=what head_word=what subject=covid  -!> Symptoms Societal Effects
+
+what would happen if donald trump caught and died from covid
+!	wh_word=what subject=trump head_word=happen  -!> Speculation Societal Effects
+
+will the usa sue china for covid pandemic
+!	wh_word=None subject=usa head_word=sue  -!> Societal Response Societal Effects
+
+will schools be dismissed if there is an outbreak in my community
+	wh_word=None subject=usa head_word=sue  -> Societal Effects
+
+is covid the beginning of the apocalypse
+!	wh_word=None head_word=covid  -!> Speculation Societal Effects
+
+who is in charge for the covid outbreak
+!	wh_word=who subject=who head_word=charge  -!> Transmission Societal Effects
+
+what do you think will be the new normal after covid
+!	wh_word=what subject=you head_word=normal  -!> Individual Response Societal Effects
+
+what kind of person will you be after the covid pandemic
+!	wh_word=what subject=you head_word=pandemic  -!> Nomenclature Societal Effects
+
+while schools out how can i help my child continue learning
+!	wh_word=how head_word=while subject=child  -!> Comparison Societal Effects
+
+is there some good news regarding covid
+!	wh_word=None head_word=news  -!> Transmission Societal Effects
+
+is covid undermining our freedom
+!	wh_word=None head_word=undermining  -!> Transmission Societal Effects
+
+how has covid altered us china relations
+	wh_word=None head_word=undermining  -> Societal Effects
+
+what needs to change once the covid pandemic is over
+!	wh_word=what subject=pandemic head_word=needs  -!> Speculation Societal Effects
+
+what are some specific new norms that well see after covid
+!	wh_word=what head_word=what subject=that  -!> Symptoms Societal Effects
+
+how much of a factor will the covid be in the 2020 presidential election
+!	wh_word=how subject=covid head_word=election  -!> Individual Response Societal Effects
+
+has president trump failed america throughout the covid outbreak
+!	wh_word=None subject=trump head_word=failed  -!> Societal Response Societal Effects
+
+what if the covid vaccine is never discovered
+!	wh_word=what head_word=discovered  -!> Comparison Societal Effects
+
+how could the covid virus hurt the chinese communist partys legitimacy
+!	wh_word=how subject=virus head_word=hurt  -!> Prevention Societal Effects
+
+what sort of penalty should china pay for causing covid
+!	wh_word=what subject=china head_word=pay  -!> Societal Response Societal Effects
+
+could covid wipe out the human race
+!	wh_word=None head_word=wipe  -!> Transmission Societal Effects
+
+will the covid affect president donald trumps re election
+!	wh_word=None subject=donald head_word=affect  -!> Economic Effects Societal Effects
+
+will covid really put the us into martial law
+!	wh_word=None subject=covid head_word=put  -!> Speculation Societal Effects
+
+is the united states preparedness for covid trumps fault
+!	wh_word=None subject=states head_word=trumps  -!> Societal Response Societal Effects
+
+will covid kill us all
+!	wh_word=None subject=covid head_word=kill  -!> Having COVID Societal Effects
+
+was covid a bio weapon
+!	wh_word=None head_word=covid  -!> Speculation Origin
+
+how covid started
+!	wh_word=how subject=covid head_word=started  -!> Individual Response Origin
+
+when was the first case of covid confirmed in the usa
+!	wh_word=when head_word=confirmed  -!> Speculation Origin
+
+how was covid created
+!	wh_word=how head_word=created  -!> Societal Effects Origin
+
+what is the source of the virus
+!	wh_word=what head_word=what subject=source  -!> Symptoms Origin
+
+was covid engineered
+	wh_word=what head_word=what subject=source  -> Origin
+
+was covid planned
+!	wh_word=None head_word=planned  -!> Transmission Origin
+
+for the sake of discussion what do you think the chances are of covid being a biologically engineered weapon
+!	wh_word=what head_word=sake subject=chances  -!> Having COVID Origin
+
+where did covid originate
+	wh_word=what head_word=sake subject=chances  -> Origin
+
+why covid happened
+!	wh_word=why subject=covid head_word=happened  -!> Comparison Origin
+
+did covid come from a bat
+	wh_word=why subject=covid head_word=happened  -> Origin
+
+is covid bio engineered
+	wh_word=why subject=covid head_word=happened  -> Origin
+
+was covid created in a lab
+!	wh_word=None head_word=created  -!> Transmission Origin
+
+was covid created
+!	wh_word=None head_word=created  -!> Transmission Origin
+
+in what species did the covid virus likely originate
+!	wh_word=what subject=virus head_word=originate  -!> Nomenclature Origin
+
+was covid made in a lab
+	wh_word=what subject=virus head_word=originate  -> Origin
+
+what is the main cause of covid
+!	wh_word=what head_word=what subject=cause  -!> Having COVID Origin
+
+did covid really originate from the province of china or just get discovered there
+	wh_word=what head_word=what subject=cause  -> Origin
+
+was covid manufactured
+!	wh_word=None head_word=manufactured  -!> Transmission Origin
+
+is covid weaponized
+	wh_word=None head_word=manufactured  -> Origin
+
+how covid starts
+!	wh_word=how head_word=starts  -!> Societal Effects Origin
+
+is the conspiracy theory of china spreading covid legitimate
+!	wh_word=None head_word=theory  -!> Transmission Origin
+
+when covid start
+!	wh_word=when head_word=when  -!> Speculation Origin
+
+when was the first local transmission of covid reported in the united states
+!	wh_word=when head_word=reported  -!> Speculation Origin
+
+did covid come from eating bats
+	wh_word=when head_word=reported  -> Origin
+
+is covid man made
+	wh_word=when head_word=reported  -> Origin
+
+did covid come from snakes
+	wh_word=when head_word=reported  -> Origin
+
+where covid start
+	wh_word=when head_word=reported  -> Origin
+
+is it true that 5g spreads the covid
+!	wh_word=None subject=5g head_word=true  -!> Reporting Origin
+
+does this pandemic have anything to do with the 5g network
+!	wh_word=None subject=pandemic head_word=have  -!> Speculation Origin
+
+do you think covid was injected purposely
+!	wh_word=None subject=you head_word=injected  -!> Individual Response Origin
+
+did the covid develop in a laboratory
+	wh_word=None subject=you head_word=injected  -> Origin
+
+how likely is it that the covid virus was created by the chinese as a biological weapon
+!	wh_word=how head_word=is subject=it  -!> Comparison Origin
+
+where did covid come from
+	wh_word=how head_word=is subject=it  -> Origin
+
+is covid a man made virus
+	wh_word=how head_word=is subject=it  -> Origin
+
+is china really the origin of covid
+!	wh_word=None head_word=china  -!> Economic Effects Origin
+
+did covid come from animals
+	wh_word=None head_word=china  -> Origin
+
+where covid started
+	wh_word=None head_word=china  -> Origin
+
+is covid a bioweapon
+!	wh_word=None head_word=covid  -!> Speculation Origin
+
+how did the covid virus appear
+!	wh_word=how subject=virus head_word=appear  -!> Prevention Origin
+
+what was the covid reservoir
+	wh_word=how subject=virus head_word=appear  -> Origin
+
+did covid start with bats
+	wh_word=how subject=virus head_word=appear  -> Origin
+
+is covid a bringer of karma
+!	wh_word=None head_word=covid  -!> Speculation Origin
+
+was covid meant to happen
+!	wh_word=None head_word=meant  -!> Transmission Origin
+
+did covid start in a lab
+	wh_word=None head_word=meant  -> Origin
+
+who is patient zero for the covid virus
+!	wh_word=who subject=who head_word=zero  -!> Transmission Origin
+
+when covid started
+!	wh_word=when subject=covid head_word=started  -!> Reporting Origin
+
+if traveling on a plane how do i stay safe
+!	wh_word=how subject=i head_word=stay  -!> Having COVID Prevention
+
+whats the best way to prevent covid
+!	wh_word=what head_word=whats  -!> Comparison Prevention
+
+does cdc recommend the use of facemask or face coverings to prevent covid
+!	wh_word=None subject=cdc head_word=recommend  -!> Societal Response Prevention
+
+should children wear masks
+	wh_word=None subject=cdc head_word=recommend  -> Prevention
+
+what is the current status of the covid vaccine
+!	wh_word=what head_word=what subject=status  -!> Symptoms Prevention
+
+is there a vaccine drug or treatment for covid
+!	wh_word=None head_word=drug  -!> Transmission Prevention
+
+how long will it take for scientists to develop a vaccine to covid
+!	wh_word=how subject=scientists head_word=take  -!> Having COVID Prevention
+
+is it possible to develop a vaccine for covid if its proved that even survivors dont develop immunity to this disease
+!	wh_word=None subject=survivors head_word=possible  -!> Transmission Prevention
+
+should i use soap and water or a hand sanitizer to protect against covid
+	wh_word=None subject=survivors head_word=possible  -> Prevention
+
+what alternatives do i have if there are no hand sanitizers available
+!	wh_word=what subject=sanitizers head_word=have  -!> Symptoms Prevention
+
+does pine sol disinfectant kill covid
+!	wh_word=None subject=disinfectant head_word=kill  -!> Societal Response Prevention
+
+what advice should we follow against covid
+!	wh_word=what subject=we head_word=follow  -!> Testing Prevention
+
+when should we identify ourselves as being sick and stay at home
+!	wh_word=when subject=we head_word=identify  -!> Speculation Prevention
+
+why is the vaccine for covid taking so long
+!	wh_word=why subject=vaccine head_word=taking  -!> Treatment Prevention
+
+should i go to work
+!	wh_word=None subject=i head_word=go  -!> Transmission Prevention
+
+what cleaning products should i use to protect against covid
+	wh_word=None subject=i head_word=go  -> Prevention
+
+how can i prevent covid
+	wh_word=None subject=i head_word=go  -> Prevention
+
+is it safe for me to donate blood during the covid pandemic
+!	wh_word=None subject=me head_word=safe  -!> Transmission Prevention
+
+when covid vaccine
+!	wh_word=when head_word=vaccine  -!> Individual Response Prevention
+
+who found the vaccine for covid
+!	wh_word=who subject=who head_word=found  -!> Transmission Prevention
+
+how can you avoid catching covid while travelling
+!	wh_word=how subject=you head_word=avoid  -!> Treatment Prevention
+
+how can i protect my child from covid infection
+	wh_word=how subject=you head_word=avoid  -> Prevention
+
+should i go to work if there is an outbreak in my community
+!	wh_word=None subject=outbreak head_word=go  -!> Speculation Prevention
+
+what are some covid related travel tips
+!	wh_word=what head_word=what subject=covid  -!> Symptoms Prevention
+
+what steps are being taken to protect the u.s. blood supply from the virus that causes covid
+!	wh_word=what head_word=taken subject=that  -!> Societal Response Prevention
+
+what steps should parents take to protect children
+!	wh_word=what subject=parents head_word=take  -!> Having COVID Prevention
+
+what kind of masks are recommended to protect healthcare workers from covid exposure
+!	wh_word=what head_word=recommended  -!> Having COVID Prevention
+
+how do we protect ourselves
+	wh_word=what head_word=recommended  -> Prevention
+
+if regular flu vaccines can be produced each year why does the covid vaccine need 12 18 months
+!	wh_word=why head_word=produced subject=vaccine  -!> Treatment Prevention
+
+is there a vaccine for the covid
+!	wh_word=None head_word=vaccine  -!> Individual Response Prevention
+
+would microwave kill covid
+	wh_word=None head_word=vaccine  -> Prevention
+
+has the covid vaccine been found
+!	wh_word=None head_word=found  -!> Transmission Prevention
+
+are there any vaccines or other medical products to prevent covid
+!	wh_word=None head_word=are subject=vaccines  -!> Testing Prevention
+
+is there a vaccine
+!	wh_word=None head_word=vaccine  -!> Individual Response Prevention
+
+should i wear a face covering or face mask when i go out in public
+	wh_word=None head_word=vaccine  -> Prevention
+
+what type of face mask is recommended to prevent catching covid
+!	wh_word=what head_word=recommended  -!> Having COVID Prevention
+
+which covid mask works
+!	wh_word=which subject=which head_word=covid  -!> Comparison Prevention
+
+does alcohol kill covid
+	wh_word=which subject=which head_word=covid  -> Prevention
+
+are kn 95 masks effective for covid
+	wh_word=which subject=which head_word=covid  -> Prevention
+
+what steps can my family take to reduce our risk of getting covid
+!	wh_word=what subject=family head_word=take  -!> Having COVID Prevention
+
+can i walk my dog
+!	wh_word=None subject=i head_word=walk  -!> Transmission Prevention
+
+is the swedish model of herd immunity for the covid virus a better way in the long run
+!	wh_word=None head_word=model  -!> Transmission Prevention
+
+should i make my own hand sanitizer if i cant find it in the stores
+!	wh_word=None subject=cant head_word=make  -!> Economic Effects Prevention
+
+how can my family and i prepare for covid
+!	wh_word=how head_word=how subject=i  -!> Economic Effects Prevention
+
+should i avoid public transportation
+!	wh_word=None subject=i head_word=avoid  -!> Treatment Prevention
+
+does uv light kill the covid
+	wh_word=None subject=i head_word=avoid  -> Prevention
+
+how soon will a vaccine for covid be ready
+!	wh_word=how subject=vaccine head_word=ready  -!> Societal Effects Prevention
+
+do covid masks have to be a specific material
+	wh_word=how subject=vaccine head_word=ready  -> Prevention
+
+can wearing a face mask prevent covid
+!	wh_word=None subject=wearing head_word=prevent  -!> Societal Response Prevention
+
+can i make my own hand sanitizer
+!	wh_word=None subject=i head_word=make  -!> Economic Effects Prevention
+
+is herd immunity the best way to stop the spread of covid
+!	wh_word=None head_word=immunity  -!> Transmission Prevention
+
+what steps should parents take to protect children during a community outbreak
+!	wh_word=what subject=parents head_word=take  -!> Having COVID Prevention
+
+if i cant find hand sanitizer in the store can i make my own
+!	wh_word=None subject=i head_word=make  -!> Economic Effects Prevention
+
+until when should i wear a mask after recovering from an illness with respiratory symptoms
+	wh_word=None subject=i head_word=make  -> Prevention
+
+can i go outdoors
+!	wh_word=None subject=i head_word=go  -!> Transmission Prevention
+
+should i wear a face mask in public
+	wh_word=None subject=i head_word=go  -> Prevention
+
+what can i do to protect myself and prevent the spread of disease
+!	wh_word=what subject=i head_word=do  -!> Individual Response Prevention
+
+how effective are alternative disinfection methods
+!	wh_word=how head_word=methods  -!> Societal Effects Prevention
+
+what are some tips to help prepare in the event that covid becomes a pandemic
+!	wh_word=what head_word=what subject=covid  -!> Symptoms Prevention
+
+why is there no vaccine for the covid virus
+!	wh_word=why head_word=is subject=vaccine  -!> Treatment Prevention
+
+how can we take precaution to stop covid
+!	wh_word=how subject=we head_word=take  -!> Individual Response Prevention
+
+has chloroquine been found to be effective against covid
+!	wh_word=None head_word=found  -!> Transmission Treatment
+
+can disinfectant sprays or wipes be used on my skin injected inhaled or ingested to prevent or treat covid
+!	wh_word=None head_word=used  -!> Testing Treatment
+
+which are the medicines currently being used to treat covid
+!	wh_word=which head_word=used  -!> Testing Treatment
+
+should covid patients take advil
+	wh_word=which head_word=used  -> Treatment
+
+why is convalescent plasma being investigated to treat covid
+	wh_word=which head_word=used  -> Treatment
+
+is any disinfectant injection available for covid
+!	wh_word=None subject=injection head_word=available  -!> Transmission Treatment
+
+what treatments are available for covid
+!	wh_word=what head_word=available  -!> Having COVID Treatment
+
+do covid have cure
+!	wh_word=None subject=covid head_word=have  -!> Symptoms Treatment
+
+if a covid patient progresses to pneumonia what antibiotics if any have proven to be effective
+!	wh_word=what subject=any head_word=progresses  -!> Symptoms Treatment
+
+are antibiotics effective in preventing or treating the covid
+	wh_word=what subject=any head_word=progresses  -> Treatment
+
+are there data showing that chloroquine phosphate or hydroxychloroquine sulfate might benefit patients with covid
+!	wh_word=how head_word=are subject=phosphate  -!> Having COVID Treatment
+
+theres already had a cure in china of covid is it true
+!	wh_word=None subject=it head_word=had  -!> Having COVID Treatment
+
+in vitro comparison of antiviral activity of chloroquine(cq) and hydroxychloroquine(hcq) against covid
+!	wh_word=None head_word=comparison  -!> Transmission Treatment
+
+should covid patients be on ventilators
+	wh_word=None head_word=comparison  -> Treatment
+
+what are the treatments for covid
+!	wh_word=what head_word=what subject=treatments  -!> Symptoms Treatment
+
+may health care providers prescribe chloroquine phosphate or hydroxychloroquine sulfate off label to treat patients with covid
+!	wh_word=None subject=providers head_word=prescribe  -!> Societal Response Treatment
+
+are antibiotics effective in preventing or treating covid
+	wh_word=None subject=providers head_word=prescribe  -> Treatment
+
+are hydroxychloroquine and azithromycin the best treatment protocol for covid
+	wh_word=None subject=providers head_word=prescribe  -> Treatment
+
+can plasma from covid survivors treat others
+	wh_word=None subject=providers head_word=prescribe  -> Treatment
+
+are there any fda approved drug products or medicines to treat covid
+!	wh_word=None head_word=products  -!> Transmission Treatment
+
+are chloroquine phosphate or hydroxychloroquine sulfate approved by the fda to treat covid
+!	wh_word=None head_word=phosphate  -!> Transmission Treatment
+
+how successful was plasma therapy against covid
+!	wh_word=how head_word=therapy  -!> Societal Effects Treatment
+
+can covid be cured
+!	wh_word=None head_word=cured  -!> Transmission Treatment
+
+will convalescent plasma therapy be the answer to covid
+!	wh_word=None subject=therapy head_word=answer  -!> Transmission Treatment
+
+should covid patients avoid taking ibuprofen
+	wh_word=None subject=therapy head_word=answer  -> Treatment
+
+can a covid patient be treated without a ventilator
+!	wh_word=None head_word=treated  -!> Transmission Treatment
+
+do covid have a cure
+!	wh_word=None subject=covid head_word=have  -!> Symptoms Treatment
+
+what is the survival rate of those infected by covid who are put on a ventilator
+!	wh_word=what head_word=what subject=rate  -!> Symptoms Treatment
+
+will ingesting or injecting disinfectants protect me against covid or kill covid if i already have it
+!	wh_word=None head_word=ingesting subject=i  -!> Transmission Treatment
+
+should covid patients be ventilated
+!	wh_word=None head_word=covid  -!> Speculation Treatment
+
+which country will be the first to find the cure of covid
+!	wh_word=which subject=country head_word=first  -!> Reporting Treatment
+
+how is covid diagnosed
+!	wh_word=how head_word=diagnosed  -!> Societal Effects Testing
+
+what kind of test can diagnose covid
+	wh_word=how head_word=diagnosed  -> Testing
+
+how are people tested for covid
+	wh_word=how head_word=diagnosed  -> Testing
+
+which covid test is best
+	wh_word=how head_word=diagnosed  -> Testing
+
+where can i get tested for covid
+	wh_word=how head_word=diagnosed  -> Testing
+
+are covid tests available
+	wh_word=how head_word=diagnosed  -> Testing
+
+where to get tested for covid
+	wh_word=how head_word=diagnosed  -> Testing
+
+are covid antibody tests accurate
+	wh_word=how head_word=diagnosed  -> Testing
+
+how is covid tested
+	wh_word=how head_word=diagnosed  -> Testing
+
+are covid test free
+!	wh_word=None head_word=free  -!> Transmission Testing
+
+how covid is tested
+	wh_word=None head_word=free  -> Testing
+
+do covid antibody tests work
+!	wh_word=None subject=tests head_word=work  -!> Societal Effects Testing
+
+are covid tests accurate
+	wh_word=None subject=tests head_word=work  -> Testing
+
+are covid test accurate
+	wh_word=None subject=tests head_word=work  -> Testing
+
+how covid test is done
+	wh_word=None subject=tests head_word=work  -> Testing
+
+which covid test is most accurate
+	wh_word=None subject=tests head_word=work  -> Testing
+
+are blood tests useful to diagnose covid
+	wh_word=None subject=tests head_word=work  -> Testing
+
+how can i get tested for covid
+	wh_word=None subject=tests head_word=work  -> Testing
+
+are covid tests free
+!	wh_word=None subject=tests head_word=free  -!> Societal Effects Testing
+
+is it true that when they test for covid that they cannot specifically determine if it is covid or not
+!	wh_word=when subject=it head_word=true  -!> Reporting Testing
+
+do i need to get my pet tested for covid
+	wh_word=when subject=it head_word=true  -> Testing
+
+who should get tested for covid
+	wh_word=when subject=it head_word=true  -> Testing
+
+are there any tests that i can purchase to test myself at home for covid
+	wh_word=when subject=it head_word=true  -> Testing
+
+why covid is worse than flu
+	wh_word=when subject=it head_word=true  -> Comparison
+
+will the covid be as bad as the 1918 spanish flu pandemic that infected 500000000 people
+!	wh_word=None subject=that head_word=bad  -!> Societal Response Comparison
+
+was there a covid 18
+!	wh_word=None head_word=18  -!> Transmission Comparison
+
+is it covid or something else
+	wh_word=None head_word=18  -> Comparison
+
+will covid be another disease like aids
+!	wh_word=None subject=covid head_word=disease  -!> Societal Effects Comparison
+
+why covid is worse than the flu
+	wh_word=None subject=covid head_word=disease  -> Comparison
+
+is covid more contagious than the flu
+!	wh_word=None head_word=covid  -!> Speculation Comparison
+
+is covid worse then swine flu
+	wh_word=None head_word=covid  -> Comparison
+
+will covid eventually end up like hiv
+!	wh_word=None head_word=covid  -!> Speculation Comparison
+
+how different is the covid from a common flu
+!	wh_word=how head_word=covid  -!> Societal Effects Comparison
+
+is covid worse than spanish flu
+	wh_word=how head_word=covid  -> Comparison
+
+how are covid and sars cov similar
+!	wh_word=how head_word=covid  -!> Societal Effects Comparison
+
+has covid been around longer
+!	wh_word=None head_word=longer  -!> Transmission Comparison
+
+why covid so dangerous
+!	wh_word=why subject=covid head_word=dangerous  -!> Nomenclature Comparison
+
+what covs were known to infect humans before december 2019
+!	wh_word=what head_word=known  -!> Having COVID Comparison
+
+why covid dangerous
+!	wh_word=why head_word=dangerous  -!> Treatment Comparison
+
+besides covid testing how do you distinguish between the flu and covid
+!	wh_word=how head_word=testing subject=you  -!> Testing Comparison
+
+how does covid vary from covid18 or covid17
+!	wh_word=how subject=covid head_word=vary  -!> Individual Response Comparison
+
+why is covid so fearful
+!	wh_word=why head_word=fearful  -!> Treatment Comparison
+
+how much similarity the covid genome sequence has with sars cov
+!	wh_word=how subject=sequence head_word=has  -!> Societal Effects Comparison
+
+how is the covid virus more dangerous than the regular flu
+!	wh_word=how subject=virus head_word=dangerous  -!> Prevention Comparison
+
+why is covid much stronger than previous corona viruses
+!	wh_word=why head_word=stronger  -!> Treatment Comparison
+
+how does covid compare to other viruses
+!	wh_word=how subject=covid head_word=compare  -!> Individual Response Comparison
+
+why covid is dangerous
+!	wh_word=why subject=covid head_word=dangerous  -!> Nomenclature Comparison
+
+whats the difference between the new covid and other covids
+	wh_word=why subject=covid head_word=dangerous  -> Comparison
+
+why of all the history of the plagues is covid more complex and deadlier
+!	wh_word=why head_word=covid  -!> Nomenclature Comparison
+
+how could the covid outbreak trigger a major economic recession in the us
+!	wh_word=how head_word=how  -!> Having COVID Economic Effects
+
+what would be the impact of covid on the it industry globally
+!	wh_word=what subject=what head_word=impact  -!> Having COVID Economic Effects
+
+what is the impact of covid on the global economy
+!	wh_word=what head_word=what subject=impact  -!> Having COVID Economic Effects
+
+will china become superpower after covid
+!	wh_word=None subject=china head_word=become  -!> Reporting Economic Effects
+
+is covid an economic pandemic
+!	wh_word=None head_word=covid  -!> Speculation Economic Effects
+
+how badly has the world economy shuddered so far because of the covid outbreak
+!	wh_word=how subject=economy head_word=shuddered  -!> Societal Effects Economic Effects
+
+why and how is covid affecting the stock market
+!	wh_word=how head_word=why subject=covid  -!> Having COVID Economic Effects
+
+what kind of startup idea can be beneficial during covid disease
+!	wh_word=what subject=kind head_word=beneficial  -!> Testing Economic Effects
+
+is the global economy headed for recession in 2020 because of covid
+!	wh_word=None head_word=headed  -!> Transmission Economic Effects
+
+is a recession due to the covid inevitable
+!	wh_word=None head_word=recession  -!> Transmission Economic Effects
+
+what are some investments that can be profitable during the covid pandemic
+!	wh_word=what head_word=what subject=that  -!> Symptoms Economic Effects
+
+who will be the world superpower at the end of the covid pandemic
+!	wh_word=who subject=who head_word=superpower  -!> Transmission Economic Effects
+
+what industries will have a huge boost once covid lockdowns end
+!	wh_word=what subject=lockdowns head_word=have  -!> Symptoms Economic Effects
+
+what are some industries that will be completely changed or destroyed by covid
+	wh_word=what subject=lockdowns head_word=have  -> Economic Effects
+
+which businesses took an unexpected hit because of covid
+	wh_word=what subject=lockdowns head_word=have  -> Economic Effects
+
+will most airlines go bankrupt after the covid pandemic
+!	wh_word=None subject=airlines head_word=go  -!> Speculation Economic Effects
+
+which large restaurant chains will be driven out of business by covid
+	wh_word=None subject=airlines head_word=go  -> Economic Effects
+
+what is the impact of covid to your business
+!	wh_word=what head_word=what subject=impact  -!> Having COVID Economic Effects
+
+how will global trade change due to covid
+!	wh_word=how head_word=how  -!> Having COVID Economic Effects
+
+which businesses are booming because of covid
+	wh_word=how head_word=how  -> Economic Effects
+
+how have the large tech companies been affected by covid
+!	wh_word=how head_word=affected  -!> Societal Effects Economic Effects
+
+what industries will never be the same because of covid
+	wh_word=how head_word=affected  -> Economic Effects
+
+is it safe to invest in buying property during covid
+!	wh_word=None subject=it head_word=safe  -!> Transmission Economic Effects
+
+will covid cause a global economic collapse that is worse than the great recession of 2008
+!	wh_word=None head_word=covid subject=that  -!> Societal Response Economic Effects
+
+how destructive has covid been for the world economy
+!	wh_word=how subject=destructive head_word=economy  -!> Societal Effects Economic Effects
+
+what business has been affected by covid the most
+!	wh_word=what head_word=affected  -!> Societal Effects Economic Effects
+
+with the stock market down due to the covid is it a good time to buy or sell your stocks
+!	wh_word=None subject=it head_word=time  -!> Testing Economic Effects
+
+is it a good idea to buy bitcoin during the covid pandemic
+!	wh_word=None subject=it head_word=idea  -!> Treatment Economic Effects
+
+how is the it industry coping with the covid situation
+!	wh_word=how head_word=is  -!> Societal Effects Economic Effects
+
+which covid symptoms come first
+	wh_word=how head_word=is  -> Symptoms
+
+can covid cause a stroke
+!	wh_word=None head_word=covid  -!> Speculation Symptoms
+
+what symptoms might people experience with covid
+!	wh_word=what subject=people head_word=experience  -!> Individual Response Symptoms
+
+does the covid provoke a fever
+!	wh_word=None subject=covid head_word=provoke  -!> Origin Symptoms
+
+when does fever start with covid
+!	wh_word=when subject=fever head_word=start  -!> Speculation Symptoms
+
+what are the symptoms of covid
+	wh_word=when subject=fever head_word=start  -> Symptoms
+
+is it possible that you already had the covid virus and didnt know it
+!	wh_word=None subject=you head_word=possible  -!> Transmission Having COVID
+
+how covid affects the body
+!	wh_word=how subject=covid head_word=affects  -!> Individual Response Having COVID
+
+is it possible to get infected with covid and another virus
+!	wh_word=None subject=it head_word=possible  -!> Transmission Having COVID
+
+why covid kills
+!	wh_word=why subject=covid head_word=kills  -!> Comparison Having COVID
+
+how is it that some people can be asymptomatic to covid
+!	wh_word=how head_word=is subject=people  -!> Individual Response Having COVID
+
+how covid works
+!	wh_word=how head_word=works  -!> Societal Effects Having COVID
+
+what is the rate of recovery from the covid virus
+!	wh_word=what head_word=what subject=rate  -!> Symptoms Having COVID
+
+do covid effects last forever
+!	wh_word=None head_word=do  -!> Symptoms Having COVID
+
+could you get sick with a mild case of covid and fully recover without even realizing you were ill
+!	wh_word=None subject=you head_word=ill  -!> Individual Response Having COVID
+
+what covid does
+	wh_word=None subject=you head_word=ill  -> Having COVID
+
+what happens when i get covid
+!	wh_word=what subject=i head_word=happens  -!> Societal Effects Having COVID
+
+what are the descriptive statistics for the incubation period for covid
+!	wh_word=what head_word=what subject=statistics  -!> Reporting Having COVID
+
+can i have the flu and covid at the same time
+!	wh_word=None subject=i head_word=have  -!> Transmission Having COVID
+
+how covid kills
+!	wh_word=how subject=covid head_word=kills  -!> Comparison Having COVID
+
+how long is the incubation time for covid
+!	wh_word=how head_word=is subject=time  -!> Societal Effects Having COVID
+
+has anyone actually recovered from the covid virus
+!	wh_word=None subject=anyone head_word=recovered  -!> Transmission Having COVID
+
+if i have a weakened immune system should i cancel my travel plans
+	wh_word=None subject=anyone head_word=recovered  -> Individual Response
+
+will jesus save the world from covid
+!	wh_word=None subject=jesus head_word=save  -!> Economic Effects Individual Response
+
+what are things to do at home during the covid shut down period which will be useful later
+!	wh_word=what subject=which head_word=shut  -!> Reporting Individual Response
+
+what should i do if i had close contact with someone who has covid
+!	wh_word=what subject=who head_word=do  -!> Having COVID Individual Response
+
+wheres the first place youre going to travel to once covid dies down
+!	wh_word=where subject=youre head_word=dies  -!> Origin Individual Response
+
+can you recommend me some interesting books to read during lockdown amid covid
+	wh_word=where subject=youre head_word=dies  -> Individual Response
+
+how can people not believe the covid is real
+	wh_word=where subject=youre head_word=dies  -> Individual Response
+
+how can i be happy sane and productive amid the covid lockdown
+!	wh_word=how subject=i head_word=sane  -!> Prevention Individual Response
+
+what is your routine for the covid holidays
+!	wh_word=what head_word=what subject=routine  -!> Symptoms Individual Response
+
+why do some people still ignore that they can get covid virus
+!	wh_word=why subject=they head_word=ignore  -!> Reporting Individual Response
+
+how are you coping during the covid crisis
+	wh_word=why subject=they head_word=ignore  -> Individual Response
+
+should people take covid more seriously
+!	wh_word=None subject=people head_word=take  -!> Having COVID Individual Response
+
+why are people still going outside with their kids when its not safe (covid)
+!	wh_word=when subject=people head_word=going  -!> Reporting Individual Response
+
+how is 3d printing helping with the covid pandemic
+!	wh_word=how head_word=how subject=printing  -!> Having COVID Individual Response
+
+can 3d printing be used to make ppe
+!	wh_word=None head_word=used  -!> Testing Individual Response
+
+what are some good books to read while youre cooped up in self quarantine during the covid pandemic
+!	wh_word=what subject=youre head_word=read  -!> Having COVID Individual Response
+
+why cant prayer relieve the covid situation
+!	wh_word=why subject=prayer head_word=relieve  -!> Treatment Individual Response
+
+what if my child or someone else in the home is sick with symptoms of covid
+!	wh_word=what head_word=what subject=child  -!> Prevention Individual Response
+
+is it safe to travel right after the covid pandemic
+!	wh_word=None subject=it head_word=safe  -!> Transmission Individual Response
+
+how do i stay positive with covid
+!	wh_word=how subject=i head_word=stay  -!> Having COVID Individual Response
+
+how is life under lockdown due to covid
+!	wh_word=how head_word=how subject=life  -!> Societal Effects Individual Response
+
+how can my family cope with the added stress
+	wh_word=how head_word=how subject=life  -> Individual Response
+
+what are some useful tips for working at home due to the covid
+	wh_word=how head_word=how subject=life  -> Individual Response
+
+what is the first thing you would do after the covid quarantine
+	wh_word=how head_word=how subject=life  -> Individual Response
+
+if you were quarantined due to the covid virus what would you do to entertain yourself
+	wh_word=how head_word=how subject=life  -> Individual Response
+
+how can i ease my anxiety during pandemics
+!	wh_word=how subject=i head_word=ease  -!> Testing Individual Response
+
+what are suggestions for things to do in the covid quarantine
+!	wh_word=what head_word=what subject=things  -!> Symptoms Individual Response
+
+is it possible for covid to come again
+!	wh_word=None subject=covid head_word=possible  -!> Transmission Speculation
+
+can covid return after lockdown is lifted
+	wh_word=None subject=covid head_word=possible  -> Speculation
+
+what are the chances that covid will hit again
+!	wh_word=what head_word=what subject=covid  -!> Symptoms Speculation
+
+in what ways can covid infect medical staff
+!	wh_word=what head_word=covid  -!> Having COVID Transmission
+
+is it possible to be infected by an asymptomatic person
+	wh_word=what head_word=covid  -> Transmission
+
+can contacts put me at risk for covid
+!	wh_word=None subject=contacts head_word=put  -!> Speculation Transmission
+
+are contacts likely to spread covid
+!	wh_word=None head_word=are subject=contacts  -!> Testing Transmission
+
+is it better to wear glasses than contacts
+!	wh_word=None subject=it head_word=better  -!> Treatment Transmission
+
+how are medical workers being infected
+	wh_word=None subject=it head_word=better  -> Transmission
+
+will mosquitoes give me covid
+!	wh_word=None subject=mosquitoes head_word=give  -!> Speculation Transmission
+
+is it possible to get covid from someone who died of covid
+	wh_word=None subject=mosquitoes head_word=give  -> Transmission
+
+is it possible for water to transmit covid
+	wh_word=None subject=mosquitoes head_word=give  -> Transmission
+
+is it possible for kids to get covid
+	wh_word=None subject=mosquitoes head_word=give  -> Transmission
+
+is it dangerous to get donated blood
+!	wh_word=None subject=it head_word=dangerous  -!> Treatment Transmission
+
+will i get covid if i go to the store
+!	wh_word=None subject=i head_word=get  -!> Prevention Transmission
+
+am i more likely to get covid from contacts
+!	wh_word=None subject=i head_word=likely  -!> Speculation Transmission
+
+can covid spread through water
+	wh_word=None subject=i head_word=likely  -> Transmission
+
+will i get covid by being near someone who recovered from covid
+	wh_word=None subject=i head_word=likely  -> Transmission
+
+is it okay to go buy groceries
+!	wh_word=None subject=it head_word=okay  -!> Treatment Transmission
+
+can covid be transmitted after death
+	wh_word=None subject=it head_word=okay  -> Transmission
+
+what is the relationship between age and risk of covid
+!	wh_word=what head_word=what subject=relationship  -!> Testing Transmission
+
+what is the relationship between blood type and risk of covid infection
+!	wh_word=what head_word=what subject=relationship  -!> Testing Transmission
+
+are recovered covid patients still contagious
+	wh_word=what head_word=what subject=relationship  -> Transmission
+
+if i have recovered from covid will i be immune to it
+	wh_word=what head_word=what subject=relationship  -> Transmission
+
+for what reasons are hospital workers being exposed to covid
+!	wh_word=what head_word=exposed  -!> Having COVID Transmission
+
+how are blood donors being screened
+!	wh_word=how head_word=screened  -!> Societal Effects Transmission
+
+can i get infected from donated blood
+	wh_word=how head_word=screened  -> Transmission
+
+can i get covid from water
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+is it possible for animals in the wilderness to carry covid
+	wh_word=None head_word=covid  -> Transmission
+
+should i be concerned about a wild animal giving me covid
+!	wh_word=None head_word=concerned  -!> Societal Response Transmission
+
+how likely am i to get covid from mosquitoes
+!	wh_word=how head_word=likely subject=i  -!> Economic Effects Transmission
+
+is it possible to get covid from mosquitoes
+	wh_word=how head_word=likely subject=i  -> Transmission
+
+are dead covid patients still contagious
+	wh_word=how head_word=likely subject=i  -> Transmission
+
+do recovered covid patients infect people
+	wh_word=how head_word=likely subject=i  -> Transmission
+
+will i get covid from a wild animal
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+do certain blood types have less chance of getting covid
+!	wh_word=None subject=types head_word=have  -!> Symptoms Transmission
+
+could covid potentially be transmitted through water
+!	wh_word=None head_word=covid  -!> Speculation Transmission
+
+is it risky to be near wild animals
+!	wh_word=None subject=it head_word=risky  -!> Treatment Transmission
+
+is it possible for donated blood to spread covid
+	wh_word=None subject=it head_word=risky  -> Transmission
+
+how is covid infecting medical worekrs
+!	wh_word=how head_word=how subject=covid  -!> Having COVID Transmission
+
+is it safe to go shopping
+	wh_word=how head_word=how subject=covid  -> Transmission
+
+can i be infected by someone who recovered from covid
+	wh_word=how head_word=how subject=covid  -> Transmission
+
+is it risky to receive donated blood
+!	wh_word=None subject=it head_word=risky  -!> Treatment Transmission
+
+can a dead covid patient infect me
+!	wh_word=None subject=patient head_word=infect  -!> Origin Transmission
+
+is there a reason that covid is called a pandemic now
+!	wh_word=None head_word=reason  -!> Transmission Nomenclature
+
+what is a covid
+!	wh_word=what head_word=what subject=covid  -!> Symptoms Nomenclature
+
+what does it mean that covid is novel
+!	wh_word=what subject=covid head_word=mean  -!> Having COVID Nomenclature
+
+what is a pandemic
+!	wh_word=what head_word=what subject=pandemic  -!> Speculation Nomenclature
+
+why is covid a pandemic
+	wh_word=what head_word=what subject=pandemic  -> Nomenclature
+
+is covid supposed to be uppercase
+!	wh_word=None head_word=supposed  -!> Transmission Nomenclature
+
+is there a difference between covid being an epidemic and a pandemic
+!	wh_word=None head_word=difference  -!> Comparison Nomenclature
+
+what is the scientifically accurate way to write covid
+!	wh_word=what head_word=what subject=way  -!> Symptoms Nomenclature
+
+when would covid be considered a pandemic
+!	wh_word=when head_word=considered  -!> Speculation Nomenclature
+
+am i wrong to capitalize covid
+!	wh_word=None subject=i head_word=wrong  -!> Transmission Nomenclature
+
+how is the novel covid different
+!	wh_word=how subject=covid head_word=different  -!> Comparison Nomenclature
+
+what is the most reliable covid model right now
+	wh_word=how subject=covid head_word=different  -> Reporting
+
+have our efforts against covid helped
+!	wh_word=None subject=efforts head_word=helped  -!> Transmission Reporting
+
+which covid model should be used
+!	wh_word=which head_word=used  -!> Testing Reporting
+
+what is the predicted number of deaths due to covid
+	wh_word=which head_word=used  -> Reporting
+
+whats the best covid model
+!	wh_word=what head_word=whats  -!> Comparison Reporting
+
+am i guaranteed to die if i have covid
+!	wh_word=None head_word=guaranteed subject=i  -!> Transmission Reporting
+
+what is the current number of deaths due to covid
+	wh_word=None head_word=guaranteed subject=i  -> Reporting
+
+could china be misleading us
+!	wh_word=None subject=china head_word=misleading  -!> Societal Response Reporting
+
+have we made progress in the fight against covid
+!	wh_word=None subject=we head_word=made  -!> Origin Reporting
+
+how many deaths will covid ultimately cause
+!	wh_word=how subject=deaths head_word=covid  -!> Societal Effects Reporting
+
+which covid model can we trust
+!	wh_word=which subject=we head_word=trust  -!> Testing Reporting
+
+when did we learn the sequence of covid
+!	wh_word=when subject=we head_word=learn  -!> Speculation Societal Response
+
+what strategies did china use to stop covid
+!	wh_word=what subject=strategies head_word=stop  -!> Speculation Societal Response
+
+why have so many people died from covid in the us
+!	wh_word=why subject=people head_word=died  -!> Individual Response Societal Response
+
+how long was the delay between noticing covid and getting its genome
+!	wh_word=how head_word=delay  -!> Having COVID Societal Response
+
+why does the us have so many infections
+	wh_word=how head_word=delay  -> Societal Response
+
+how should medical centers respond to a covid patient
+!	wh_word=how subject=centers head_word=respond  -!> Societal Effects Societal Response
+
+was trump serious when suggesting to fight covid with disinfectant injections
+	wh_word=how subject=centers head_word=respond  -> Societal Response
+
+how long was needed to get covids full genome sequence
+!	wh_word=how head_word=needed  -!> Societal Effects Societal Response
+
+how come the us is hit so bad by covid
+!	wh_word=how head_word=hit  -!> Economic Effects Societal Response
+
+for what reasons is the us handling the pandemic so poorly
+	wh_word=how head_word=hit  -> Societal Response
+
+how are hospitals dealing with covid
+!	wh_word=how head_word=how subject=hospitals  -!> Having COVID Societal Response
+
+do hospitals have special steps for covid patients
+!	wh_word=None subject=hospitals head_word=have  -!> Symptoms Societal Response
+
+how was china able to control covid so well
+!	wh_word=how head_word=how  -!> Having COVID Societal Response
+
+are there any specific procedures for hospitals to follow
+!	wh_word=None head_word=are subject=hospitals  -!> Testing Societal Response
+
+when he suggested that injecting disinfectant could cure covid was trump joking
+	wh_word=None head_word=are subject=hospitals  -> Societal Response
+
+what was the time needed to get the full sequence of covid
+!	wh_word=what head_word=what subject=time  -!> Individual Response Societal Response
+
+is trump to blame for the covid outbreak
+!	wh_word=None subject=trump head_word=blame  -!> Societal Response Societal Effects
+
+can we blame trump for covid
+!	wh_word=None subject=we head_word=blame  -!> Speculation Societal Effects
+
+what would be the best way to hold china accountable for covid
+	wh_word=None subject=we head_word=blame  -> Societal Effects
+
+is my child still able to learn while in lockdown
+!	wh_word=None subject=child head_word=able  -!> Prevention Societal Effects
+
+is the world going to end because of covid
+	wh_word=None subject=child head_word=able  -> Societal Effects
+
+what steps should i take to ensure my child keeps learning
+!	wh_word=what subject=i head_word=take  -!> Individual Response Societal Effects
+
+what will the effects of covid be on the election
+!	wh_word=what subject=effects head_word=election  -!> Having COVID Societal Effects
+
+will the presidential election be affected by covid
+	wh_word=what subject=effects head_word=election  -> Societal Effects
+
+if school is cancelled how will my kid learn
+	wh_word=what subject=effects head_word=election  -> Societal Effects
+
+is covid the end of humanity
+!	wh_word=None head_word=covid  -!> Speculation Societal Effects
+
+in what ways have people been affected by covid
+	wh_word=None head_word=covid  -> Societal Effects
+
+is there any way to penalize china for covid
+!	wh_word=None head_word=is subject=way  -!> Transmission Societal Effects
+
+could covid kill all humans
+!	wh_word=None head_word=covid  -!> Speculation Societal Effects
+
+how can i make sure my child continues to get their education
+!	wh_word=how subject=child head_word=make  -!> Prevention Societal Effects
+
+how long ago was covid first found
+!	wh_word=how head_word=first  -!> Reporting Origin
+
+what is the start date of covid
+!	wh_word=what head_word=what subject=date  -!> Speculation Origin
+
+how covid began
+!	wh_word=how head_word=covid  -!> Societal Effects Origin
+
+how did covid begin
+!	wh_word=how subject=covid head_word=begin  -!> Individual Response Origin
+
+where was covid found
+	wh_word=how subject=covid head_word=begin  -> Origin
+
+how did covid come to be
+	wh_word=how subject=covid head_word=begin  -> Origin
+
+how did covid get started
+!	wh_word=how head_word=started  -!> Societal Effects Origin
+
+are there ways other than hand sanitizer and soap to kill covid
+!	wh_word=None head_word=are subject=ways  -!> Testing Prevention
+
+are there any recommended products for disinfecting covid
+!	wh_word=None head_word=are subject=products  -!> Testing Prevention
+
+is it possible to disinfect surfaces with alternative disinfection methods
+!	wh_word=None subject=it head_word=possible  -!> Transmission Prevention
+
+am i allowed to go out
+!	wh_word=None head_word=allowed  -!> Transmission Prevention
+
+can i still go to work
+!	wh_word=None subject=i head_word=go  -!> Transmission Prevention
+
+will alternative disinfection work against covid
+!	wh_word=None head_word=will subject=work  -!> Treatment Prevention
+
+other than hand sanitizer how can i protect myself from covid
+	wh_word=None head_word=will subject=work  -> Prevention
+
+how is covid prevented
+!	wh_word=how head_word=prevented  -!> Societal Effects Prevention
+
+is there a way to not get covid
+!	wh_word=None head_word=way  -!> Societal Effects Prevention
+
+which face mask protects me from covid
+!	wh_word=which subject=mask head_word=protects  -!> Economic Effects Prevention
+
+what is taking so long to develop a vaccine for covid
+!	wh_word=what subject=what head_word=taking  -!> Individual Response Prevention
+
+what type of facemask should i use
+	wh_word=what subject=what head_word=taking  -> Prevention
+
+what should i do to stop my kids from getting covid
+!	wh_word=what subject=i head_word=do  -!> Individual Response Prevention
+
+can i use radiation to kill covid
+	wh_word=what subject=i head_word=do  -> Prevention
+
+are there any recommended ways to protect children from covid
+!	wh_word=None head_word=ways  -!> Transmission Prevention
+
+how can i best kill covid
+	wh_word=None head_word=ways  -> Prevention
+
+is there a way to kill covid without hand sanitizer
+!	wh_word=None head_word=way  -!> Societal Effects Prevention
+
+is there a specific mask i should use to prevent covid
+	wh_word=None head_word=way  -> Prevention
+
+is it still safe to work
+!	wh_word=None subject=it head_word=safe  -!> Transmission Prevention
+
+how do i disinfect if i dont have hand sanitizer
+	wh_word=None subject=it head_word=safe  -> Prevention
+
+how should parents keep children safe
+	wh_word=None subject=it head_word=safe  -> Prevention
+
+is it risky to continue going to work
+!	wh_word=None subject=it head_word=risky  -!> Treatment Prevention
+
+how do i know if i should stop going to work
+	wh_word=None subject=it head_word=risky  -> Prevention
+
+at what point should i stop going to work
+	wh_word=None subject=it head_word=risky  -> Prevention
+
+should i get out of the house
+	wh_word=None subject=it head_word=risky  -> Prevention
+
+can i kill covid without hand sanitizer
+	wh_word=None subject=it head_word=risky  -> Prevention
+
+is there anything i can use to kill covid
+!	wh_word=None head_word=anything subject=i  -!> Transmission Prevention
+
+will i get covid if i go outside
+	wh_word=None head_word=anything subject=i  -> Prevention
+
+what is the most effective way to kill covid
+!	wh_word=what head_word=what subject=way  -!> Symptoms Prevention
+
+how is there still not a vaccine or cure for covid
+!	wh_word=how head_word=vaccine  -!> Individual Response Prevention
+
+is it risky to leave my house to exercise
+!	wh_word=None subject=it head_word=risky  -!> Treatment Prevention
+
+what is the best way to make sure my child wont get infected
+!	wh_word=what head_word=what subject=way  -!> Symptoms Prevention
+
+how can families get ready for lockdown
+	wh_word=what head_word=what subject=way  -> Prevention
+
+is diy hand sanitizer useful
+!	wh_word=None head_word=sanitizer  -!> Transmission Prevention
+
+has someone made a vaccine for covid yet
+!	wh_word=None subject=someone head_word=made  -!> Origin Prevention
+
+can homemade hand sanitizer replace real hand sanitizer
+!	wh_word=None subject=sanitizer head_word=replace  -!> Transmission Prevention
+
+are we still waiting for a vaccine for covid
+!	wh_word=None subject=we head_word=waiting  -!> Speculation Prevention
+
+how should people in the same house get ready for covid
+!	wh_word=how subject=people head_word=get  -!> Having COVID Prevention
+
+is there anything i can do to help my family prepare for covid
+!	wh_word=None head_word=anything subject=family  -!> Transmission Prevention
+
+what can i do to prepare my family for a covid outbreak
+!	wh_word=what subject=i head_word=do  -!> Individual Response Prevention
+
+is covid curable
+!	wh_word=None head_word=curable  -!> Transmission Treatment
+
+is covid weak to antibiotics
+!	wh_word=None head_word=weak  -!> Transmission Treatment
+
+could plasma be a treatment for covid
+	wh_word=None head_word=weak  -> Treatment
+
+is covid survivable without ventilators
+!	wh_word=None head_word=survivable  -!> Transmission Treatment
+
+is it safe for covid patients to take ibuprofen
+!	wh_word=None subject=patients head_word=safe  -!> Transmission Treatment
+
+do you need help breathing if you have covid
+!	wh_word=None subject=you head_word=need  -!> Individual Response Treatment
+
+can disinfectant sprays cure me if i have covid
+	wh_word=None subject=you head_word=need  -> Treatment
+
+is there a way to get rid of covid after being infected
+!	wh_word=None head_word=way  -!> Societal Effects Treatment
+
+can covid be treated with antibiotics
+!	wh_word=None head_word=treated  -!> Transmission Treatment
+
+has a treatment been released to treat covid
+!	wh_word=None head_word=released  -!> Origin Treatment
+
+can covid be treated with ibuprofen
+!	wh_word=None head_word=treated  -!> Transmission Treatment
+
+is it possible to cure covid
+!	wh_word=None subject=it head_word=possible  -!> Transmission Treatment
+
+is there a treatment for covid yet
+	wh_word=None subject=it head_word=possible  -> Treatment
+
+should i ingest disinfectant to cure covid
+!	wh_word=None subject=i head_word=ingest  -!> Transmission Treatment
+
+can i use ibuprofen if i have covid
+!	wh_word=None subject=i head_word=use  -!> Prevention Treatment
+
+how can covid patients be treated
+!	wh_word=how head_word=covid  -!> Societal Effects Treatment
+
+will ibuprofen have adverse effects on covid patients
+	wh_word=how head_word=covid  -> Treatment
+
+was plasma successful in treating covid patients
+!	wh_word=None head_word=successful  -!> Transmission Treatment
+
+can antibiotics kill covid
+!	wh_word=None subject=antibiotics head_word=kill  -!> Prevention Treatment
+
+is it true that i can get rid of covid by drinking cleaners
+!	wh_word=None subject=it head_word=true  -!> Reporting Treatment
+
+will pets be tested for covid
+	wh_word=None subject=it head_word=true  -> Testing
+
+do i need to get tested
+!	wh_word=None subject=i head_word=need  -!> Transmission Testing
+
+can case severity be predicted based on anal swabs
+!	wh_word=None head_word=predicted  -!> Speculation Testing
+
+is there a fee to be tested for covid
+!	wh_word=None head_word=fee  -!> Transmission Testing
+
+do i have to pay to get tested for covid
+!	wh_word=None subject=i head_word=have  -!> Transmission Testing
+
+why are we testing for covid
+	wh_word=None subject=i head_word=have  -> Testing
+
+how do i know if i need to be tested
+!	wh_word=how subject=i head_word=know  -!> Prevention Testing
+
+can i test my pet for covid
+	wh_word=how subject=i head_word=know  -> Testing
+
+have anal swab tests been linked with case severity
+!	wh_word=None head_word=linked  -!> Transmission Testing
+
+do covid tests help
+!	wh_word=None subject=tests head_word=help  -!> Societal Effects Testing
+
+does the presence of covid in anal swabs determine how severe it is
+!	wh_word=how subject=it head_word=determine  -!> Comparison Testing
+
+how much does a covid test cost
+!	wh_word=how head_word=cost  -!> Societal Effects Testing
+
+are covid tests being used on pets
+	wh_word=how head_word=cost  -> Testing
+
+can i test myself for covid just in case
+	wh_word=how head_word=cost  -> Testing
+
+is there a correlation between severity and anal swab tests
+!	wh_word=None head_word=correlation  -!> Transmission Testing
+
+are there requirements to be tested
+!	wh_word=None head_word=requirements  -!> Transmission Testing
+
+what is the point of testing people for covid
+!	wh_word=what head_word=what subject=point  -!> Nomenclature Testing
+
+am i able to test my pet for covid
+!	wh_word=None subject=i head_word=able  -!> Transmission Testing
+
+will i be charged for a covid test
+!	wh_word=None head_word=charged  -!> Transmission Testing
+
+how can i tell if i have the flu or covid
+!	wh_word=how subject=i head_word=tell  -!> Prevention Comparison
+
+what is the relation between sars cov and covid
+!	wh_word=what head_word=what subject=relation  -!> Symptoms Comparison
+
+what are the differences between influenza and covid
+!	wh_word=what head_word=what subject=differences  -!> Symptoms Comparison
+
+what makes covid particularly dangerous
+!	wh_word=what subject=covid head_word=makes  -!> Having COVID Comparison
+
+what makes covid more dangerous than sars
+!	wh_word=what subject=covid head_word=makes  -!> Having COVID Comparison
+
+are there ways to tell if its covid or flu
+!	wh_word=None head_word=ways  -!> Transmission Comparison
+
+are there covids before this one
+!	wh_word=None head_word=covids  -!> Nomenclature Comparison
+
+how is covid dangerous
+!	wh_word=how head_word=dangerous  -!> Societal Effects Comparison
+
+how can we distinguish between covid and the flu
+	wh_word=how head_word=dangerous  -> Comparison
+
+how long has covid existed
+!	wh_word=how head_word=covid  -!> Societal Effects Comparison
+
+is sars and covid the same thing
+	wh_word=how head_word=covid  -> Comparison
+
+are sars cov and covid related
+	wh_word=how head_word=covid  -> Comparison
+
+was covid preceded by covid 18
+!	wh_word=None head_word=preceded  -!> Transmission Comparison
+
+how does covid differ from the flu
+!	wh_word=how subject=covid head_word=differ  -!> Individual Response Comparison
+
+is there any way to tell between covid and flu
+!	wh_word=None head_word=is subject=way  -!> Transmission Comparison
+
+which stocks are the most profitable during covid
+	wh_word=None head_word=is subject=way  -> Economic Effects
+
+what is the reasoning behind covid affecting the stock market
+!	wh_word=what head_word=what subject=reasoning  -!> Symptoms Economic Effects
+
+for what reason is the stock market affected by covid
+!	wh_word=what head_word=affected  -!> Societal Effects Economic Effects
+
+will i be able to make money by buying stocks
+!	wh_word=None subject=i head_word=able  -!> Transmission Economic Effects
+
+in what ways has the it industry been affected by covid
+!	wh_word=what head_word=ways  -!> Having COVID Economic Effects
+
+how has covid affected the it industry
+!	wh_word=how head_word=covid  -!> Societal Effects Economic Effects
+
+can covid cause secondary illnesses
+!	wh_word=None head_word=covid  -!> Speculation Symptoms
+
+how quickly will symptoms of covid appear
+	wh_word=None head_word=covid  -> Symptoms
+
+if i have covid will i have a stroke
+!	wh_word=None subject=i head_word=have  -!> Transmission Symptoms
+
+can you have a stroke because of covid
+!	wh_word=None subject=you head_word=have  -!> Individual Response Symptoms
+
+is it possible to get a stroke from covid
+!	wh_word=None subject=it head_word=possible  -!> Transmission Symptoms
+
+is there a predictable initial symptom of covid
+	wh_word=None subject=it head_word=possible  -> Symptoms
+
+what are the beginning symptoms for covid
+	wh_word=None subject=it head_word=possible  -> Symptoms
+
+are there other illnesses that result from covid
+!	wh_word=None head_word=illnesses subject=that  -!> Societal Response Symptoms
+
+what other disease will covid result in
+!	wh_word=what subject=disease head_word=covid  -!> Nomenclature Symptoms
+
+how do covid symptom start
+!	wh_word=how head_word=start  -!> Origin Symptoms
+
+which disease does covid cause
+!	wh_word=which subject=disease head_word=covid  -!> Nomenclature Symptoms
+
+do covid patients get strokes
+!	wh_word=None subject=patients head_word=get  -!> Treatment Symptoms
+
+can you have two viruses at once
+!	wh_word=None subject=you head_word=have  -!> Individual Response Having COVID
+
+what are the ways that covid can kill people
+!	wh_word=what head_word=what subject=covid  -!> Symptoms Having COVID
+
+do we know how long covid incubates
+!	wh_word=how subject=covid head_word=know  -!> Comparison Having COVID
+
+what is the maximum time that someone can have covid without symptoms
+!	wh_word=what head_word=what subject=someone  -!> Individual Response Having COVID
+
+will covid result in permanent damage
+!	wh_word=None head_word=covid  -!> Speculation Having COVID
+
+how does covid cause death
+	wh_word=None head_word=covid  -> Having COVID
+
+how long does it take for infected people to show symptoms
+	wh_word=None head_word=covid  -> Having COVID
+
+what is covids incubation period
+	wh_word=None head_word=covid  -> Having COVID
+
+will having the flu prevent me from getting covid
+!	wh_word=None head_word=having subject=flu  -!> Symptoms Having COVID
+
+am i at risk for covid if i have the flu
+!	wh_word=None head_word=am subject=i  -!> Transmission Having COVID
+
+can you get covid if you already have the flu
+!	wh_word=None subject=you head_word=get  -!> Individual Response Having COVID
+
+are there any permanent effects of covid
+!	wh_word=None head_word=are subject=effects  -!> Testing Having COVID
+
+how risky is it to go on vacation
+!	wh_word=how head_word=is subject=it  -!> Comparison Individual Response
+
+how can i stay safe if someone i live with gets covid
+!	wh_word=how subject=i head_word=stay  -!> Having COVID Individual Response
+
+are there any steps that suspected covid patients should take
+!	wh_word=None head_word=are subject=patients  -!> Treatment Individual Response
+
+can i still travel
+!	wh_word=None subject=i head_word=travel  -!> Transmission Individual Response
+
+will i get covid if i go on a trip
+!	wh_word=None subject=i head_word=get  -!> Prevention Individual Response
+
+if a family member gets sick from covid what do i do
+	wh_word=None subject=i head_word=get  -> Individual Response
+
+are there any steps i should take if i think someone i live with has covid
+!	wh_word=None subject=i head_word=take  -!> Transmission Individual Response
+
+is it safe to go on vacation
+!	wh_word=None subject=it head_word=safe  -!> Transmission Individual Response
+
+what are the procedures that i should take if i think i have covid
+	wh_word=None subject=it head_word=safe  -> Individual Response
+
+what is the best way to deal with stress during lockdown
+!	wh_word=what head_word=what subject=way  -!> Symptoms Individual Response
+

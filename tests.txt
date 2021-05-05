@@ -1,0 +1,12 @@
+with wh_word and head_word: 36.05%
+
+
+Features enabled:
+    - Subject Noun
+    - Head Word
+    - Question Word
+Final accuracy: 0.4207221350078493
+
+Added question words:
+    "is there", "how long", "can", "would",
+Final accuracy: 0.44568690095846647
